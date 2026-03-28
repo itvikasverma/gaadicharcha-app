@@ -76,10 +76,10 @@ export function getContentUrl(item: Pick<ContentItem, "slug">) {
 }
 
 export function buildSchema(item: ContentItem) {
-  const isReview = item.type === "car" || item.type === "bike" || item.type === "review";
+  const isArticleType = item.type === "blog" || item.type === "news";
   const base = {
     "@context": "https://schema.org",
-    "@type": isReview ? "Review" : "Article",
+    "@type": isArticleType ? "Article" : "Article",
     headline: item.title,
     url: getContentUrl(item),
     mainEntityOfPage: getContentUrl(item),
@@ -93,13 +93,6 @@ export function buildSchema(item: ContentItem) {
       url: SITE_URL,
     },
   } as Record<string, unknown>;
-
-  if (isReview) {
-    base.itemReviewed = {
-      "@type": "Vehicle",
-      name: item.title,
-    };
-  }
 
   return base;
 }
