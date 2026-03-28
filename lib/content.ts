@@ -1,6 +1,7 @@
 import cars from "../data/cars.json";
 import bikes from "../data/bikes.json";
 import blogs from "../data/blogs.json";
+import { SITE_NAME, SITE_URL, toAbsoluteUrl } from "./site";
 
 export type ContentType =
   | "car"
@@ -66,15 +67,31 @@ export function getContentBySlug(slug: string) {
   return items.find((item) => item.slug === slug);
 }
 
+export function getContentPath(item: Pick<ContentItem, "slug">) {
+  return `/${item.slug}`;
+}
+
+export function getContentUrl(item: Pick<ContentItem, "slug">) {
+  return `${SITE_URL}${getContentPath(item)}`;
+}
+
 export function buildSchema(item: ContentItem) {
   const isReview = item.type === "car" || item.type === "bike" || item.type === "review";
   const base = {
     "@context": "https://schema.org",
     "@type": isReview ? "Review" : "Article",
     headline: item.title,
-    image: [item.image],
+    url: getContentUrl(item),
+    mainEntityOfPage: getContentUrl(item),
+    image: [toAbsoluteUrl(item.image)],
     description: item.description,
     datePublished: item.date,
+    dateModified: item.updatedAt ?? item.date,
+    publisher: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      url: SITE_URL,
+    },
   } as Record<string, unknown>;
 
   if (isReview) {

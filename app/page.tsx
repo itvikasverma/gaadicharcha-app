@@ -1,10 +1,52 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import LoadMoreGrid from "../components/LoadMoreGrid";
 import { getAllContent } from "../lib/content";
+import { DEFAULT_DESCRIPTION, DEFAULT_KEYWORDS, SITE_NAME } from "../lib/site";
 
 export const dynamic = "force-dynamic";
 
 const INITIAL_COUNT = 15;
+
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<{ type?: string; q?: string }>;
+}): Promise<Metadata> {
+  const params = await searchParams;
+  const active = params.type ?? "all";
+  const query = (params.q ?? "").trim();
+
+  const titleByType: Record<string, string> = {
+    all: SITE_NAME,
+    car: "Car Reviews",
+    bike: "Bike Reviews",
+    blog: "Auto Blog and News",
+  };
+
+  const title = query
+    ? `${titleByType[active] ?? SITE_NAME} Search: ${query}`
+    : titleByType[active] ?? SITE_NAME;
+
+  const description = query
+    ? `Search results on GaadiCharcha for "${query}" across car reviews, bike reviews, comparisons, and automotive news.`
+    : DEFAULT_DESCRIPTION;
+
+  return {
+    title,
+    description,
+    keywords: DEFAULT_KEYWORDS,
+    alternates: {
+      canonical: "/",
+    },
+    openGraph: {
+      title,
+      description,
+      url: "/",
+      type: "website",
+    },
+  };
+}
 
 export default async function HomePage({
   searchParams,

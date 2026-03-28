@@ -1,7 +1,14 @@
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { buildSchema, getAllSlugs, getContentBySlug } from "../../lib/content";
+import {
+  buildSchema,
+  getAllSlugs,
+  getContentBySlug,
+  getContentPath,
+  getContentUrl,
+} from "../../lib/content";
+import { DEFAULT_KEYWORDS, SITE_NAME, toAbsoluteUrl } from "../../lib/site";
 
 export async function generateStaticParams() {
   return getAllSlugs();
@@ -22,10 +29,25 @@ export async function generateMetadata({
   return {
     title: item.title,
     description: item.description,
+    keywords: [...DEFAULT_KEYWORDS, ...(item.tags ?? [])],
+    alternates: {
+      canonical: getContentPath(item),
+    },
     openGraph: {
       title: item.title,
       description: item.description,
-      images: [item.image],
+      url: getContentUrl(item),
+      type: "article",
+      siteName: SITE_NAME,
+      publishedTime: item.date,
+      modifiedTime: item.updatedAt ?? item.date,
+      images: [toAbsoluteUrl(item.image)],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: item.title,
+      description: item.description,
+      images: [toAbsoluteUrl(item.image)],
     },
   };
 }
