@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import SearchBar from "./SearchBar";
@@ -44,7 +44,9 @@ export default function TopNav() {
         </nav>
 
         <div className="hidden justify-end md:flex">
-          <SearchBar />
+          <Suspense fallback={null}>
+            <SearchBar />
+          </Suspense>
         </div>
 
         <button
@@ -78,7 +80,9 @@ export default function TopNav() {
                 Blog
               </Link>
             </nav>
-            <SearchBar />
+            <Suspense fallback={null}>
+              <SearchBar />
+            </Suspense>
           </div>
         </div>
       )}
