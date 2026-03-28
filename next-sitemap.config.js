@@ -7,6 +7,11 @@ const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL ||
   "https://www.gaadicharcha.in"
 ).replace(/\/$/, "");
+const deploymentVersion =
+  process.env.VERCEL_GIT_COMMIT_SHA ||
+  process.env.VERCEL_DEPLOYMENT_ID ||
+  process.env.npm_package_version ||
+  "local";
 
 function readJson(fileName) {
   return JSON.parse(
@@ -70,6 +75,9 @@ module.exports = {
     return Promise.all(paths.map((urlPath) => config.transform(config, urlPath)));
   },
   robotsTxtOptions: {
+    additionalSitemaps: [],
+    transformRobotsTxt: async (_, robotsTxt) =>
+      `# Version: ${deploymentVersion}\n${robotsTxt}`,
     policies: [
       {
         userAgent: "*",
