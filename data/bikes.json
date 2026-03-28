@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "hero-splendor-city-ride",
+    "type": "bike",
+    "title": "Hero Splendor City Ride: Mileage King",
+    "image": "/images/bikes/Hero Splendor.png",
+    "description": "Splendor remains a commuter favorite for its fuel economy.",
+    "content": [
+      "Hero Splendor continues to be the commuter benchmark with excellent mileage.",
+      "The seating position is easy and upright, and the bike feels light in traffic.",
+      "For daily city use with low running cost, it is still a dependable choice."
+    ],
+    "date": "2026-03-01",
+    "specs": {
+      "price": "INR 75,000 - 85,000",
+      "mileage": "60 - 70 kmpl",
+      "engine": "97.2cc"
+    },
+    "pros": [
+      "Excellent economy",
+      "Easy maintenance"
+    ],
+    "cons": [
+      "Basic instrumentation"
+    ],
+    "comparison": null
+  },
+  {
+    "slug": "bajaj-pulsar-ns200-review",
+    "type": "bike",
+    "title": "Bajaj Pulsar NS200 Review: Street Sprint",
+    "image": "/images/bikes/bajaj-pulsar-ns200.png",
+    "description": "A performance commuter with sharp handling and punchy power.",
+    "content": [
+      "Bajaj Pulsar NS200 brings performance to the daily commute.",
+      "The motor delivers a strong mid-range, and the chassis feels stable at speed.",
+      "It suits riders who want fun with practical everyday usability."
+    ],
+    "date": "2026-02-26",
+    "specs": {
+      "price": "INR 1.58 lakh",
+      "mileage": "36 - 40 kmpl",
+      "engine": "199.5cc"
+    },
+    "pros": [
+      "Strong midrange",
+      "Agile"
+    ],
+    "cons": [
+      "Firm seat"
+    ],
+    "comparison": null
+  },
+  {
+    "slug": "tvs-apache-rr310-review",
+    "type": "bike",
+    "title": "TVS Apache RR310 Review: Track Inspired",
+    "image": "/images/bikes/tvs-apache-rr310.png",
+    "description": "A full-fairing bike with sporty ergonomics and strong braking.",
+    "content": [
+      "TVS Apache RR310 delivers a sporty experience with confident braking.",
+      "The riding posture feels focused, and the bike stays stable at higher speeds.",
+      "It is ideal for riders who want weekend performance with premium styling."
+    ],
+    "date": "2026-02-24",
+    "specs": {
+      "price": "INR 2.72 lakh",
+      "mileage": "30 - 34 kmpl",
+      "engine": "312.2cc"
+    },
+    "pros": [
+      "Great stability",
+      "Sporty design"
+    ],
+    "cons": [
+      "Heat in traffic"
+    ],
+    "comparison": null
+  }
+]

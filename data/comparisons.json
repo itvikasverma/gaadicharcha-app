@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "creta-vs-seltos",
+    "type": "comparison",
+    "title": "Hyundai Creta vs Kia Seltos: Which SUV Wins?",
+    "image": "/images/kia-seltos.jpg",
+    "description": "We put Creta and Seltos head-to-head on features and comfort.",
+    "date": "2026-02-10",
+    "specs": {
+      "price": "INR 11.0 - 20.0 lakh",
+      "mileage": "16.5 - 20.7 kmpl",
+      "engine": "1.5L Petrol / 1.5L Diesel"
+    },
+    "pros": ["Strong feature sets"],
+    "cons": ["Long waiting periods"],
+    "comparison": {
+      "vs": "Kia Seltos",
+      "verdict": "Creta edges on comfort, Seltos wins on tech polish."
+    }
+  },
+  {
+    "slug": "nexon-vs-brezza",
+    "type": "comparison",
+    "title": "Nexon vs Brezza: Safety vs Efficiency",
+    "image": "/images/tata-nexon.jpg",
+    "description": "Two popular compact SUVs with different strengths.",
+    "date": "2026-02-08",
+    "specs": {
+      "price": "INR 8.10 - 13.9 lakh",
+      "mileage": "18 - 24 kmpl",
+      "engine": "1.2L Turbo / 1.5L"
+    },
+    "pros": ["Value options"],
+    "cons": ["Availability"],
+    "comparison": {
+      "vs": "Maruti Brezza",
+      "verdict": "Nexon feels safer, Brezza is smoother in city traffic."
+    }
+  },
+  {
+    "slug": "thar-vs-gurkha",
+    "type": "comparison",
+    "title": "Thar vs Gurkha: The Off-Road Battle",
+    "image": "/images/tata-nexon.jpg",
+    "description": "Hardcore off-road SUVs go head-to-head.",
+    "date": "2026-02-06",
+    "specs": {
+      "price": "INR 11.0 - 16.0 lakh",
+      "mileage": "12 - 15 kmpl",
+      "engine": "2.2L Diesel"
+    },
+    "pros": ["Real 4x4"],
+    "cons": ["Limited cabin space"],
+    "comparison": {
+      "vs": "Force Gurkha",
+      "verdict": "Thar feels more modern, Gurkha is rugged and unique."
+    }
+  },
+  {
+    "slug": "city-vs-verna",
+    "type": "comparison",
+    "title": "Honda City vs Hyundai Verna",
+    "image": "/images/hyundai-creta.jpg",
+    "description": "Sedan rivals compared on refinement and features.",
+    "date": "2026-02-04",
+    "specs": {
+      "price": "INR 11.0 - 17.5 lakh",
+      "mileage": "17 - 20 kmpl",
+      "engine": "1.5L Petrol"
+    },
+    "pros": ["Strong refinement"],
+    "cons": ["Price gap"],
+    "comparison": {
+      "vs": "Hyundai Verna",
+      "verdict": "City feels refined, Verna offers more tech features."
+    }
+  }
+]

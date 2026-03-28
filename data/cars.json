@@ -1,0 +1,85 @@
+[
+  {
+    "slug": "hyundai-creta-2026-trending-review",
+    "type": "car",
+    "title": "Hyundai Creta 2026: Most Trending Family SUV",
+    "image": "/images/cars/hyundai-creta.png",
+    "description": "Hyundai Creta remains one of India's top-trending SUVs in 2026 thanks to premium features, comfort, and strong city-highway balance.",
+    "content": [
+      "Creta continues to trend among buyers looking for a complete family SUV package.",
+      "It offers a feature-rich cabin, refined drive quality, and dependable day-to-day usability.",
+      "For city + highway mixed use, it stays one of the most searched options in India."
+    ],
+    "date": "2026-03-28",
+    "specs": {
+      "price": "INR 11.0 - 20.0 lakh",
+      "mileage": "16.5 - 20.7 kmpl",
+      "engine": "1.5L Petrol / 1.5L Diesel"
+    },
+    "pros": [
+      "Premium feature list",
+      "Comfortable ride",
+      "Strong resale"
+    ],
+    "cons": [
+      "Higher waiting in top variants"
+    ],
+    "comparison": null
+  },
+  {
+    "slug": "kia-seltos-2026-trending-review",
+    "type": "car",
+    "title": "Kia Seltos 2026: Tech-Focused Trending SUV",
+    "image": "/images/cars/kia-seltos.png",
+    "description": "Kia Seltos is trending for its design, connected features, and strong road presence in the midsize SUV segment.",
+    "content": [
+      "Seltos attracts buyers who prioritize style and technology in daily driving.",
+      "Its cabin quality and infotainment setup remain key reasons for strong popularity.",
+      "For buyers wanting a modern SUV feel, Seltos continues to be a top shortlist car."
+    ],
+    "date": "2026-03-27",
+    "specs": {
+      "price": "INR 10.9 - 20.5 lakh",
+      "mileage": "16.5 - 20.7 kmpl",
+      "engine": "1.5L Petrol / 1.5L Diesel"
+    },
+    "pros": [
+      "Bold design",
+      "Loaded features",
+      "Great cabin feel"
+    ],
+    "cons": [
+      "Slightly firm low-speed ride"
+    ],
+    "comparison": null
+  },
+  {
+    "slug": "tata-nexon-2026-trending-review",
+    "type": "car",
+    "title": "Tata Nexon 2026: Safety-Led Trending Compact SUV",
+    "image": "/images/cars/tata-nexon.png",
+    "description": "Tata Nexon remains a trending compact SUV pick due to strong safety reputation, bold styling, and practical ownership value.",
+    "content": [
+      "Nexon stays highly popular among safety-conscious buyers in India.",
+      "Its road presence, features, and balanced real-world usability keep demand strong.",
+      "For buyers comparing under-15-lakh SUVs, Nexon remains one of the most followed options."
+    ],
+    "date": "2026-03-26",
+    "specs": {
+      "price": "INR 8.10 - 14.65 lakh",
+      "mileage": "17.0 - 24.1 kmpl",
+      "engine": "1.2L Turbo / 1.5L Diesel"
+    },
+    "pros": [
+      "Strong safety image",
+      "Value for money",
+      "Good road stance"
+    ],
+    "cons": [
+      "Rear seat space could be better"
+    ],
+    "comparison": null
+  }
+]
+
+
