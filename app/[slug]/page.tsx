@@ -145,12 +145,12 @@ export default async function DetailPage({
                         key={`${section.heading}-${car.name}`}
                         className="overflow-hidden rounded-xl border border-neutral-200 bg-neutral-50"
                       >
-                        <div className="relative aspect-[4/3] w-full">
+                        <div className="relative aspect-[4/3] w-full bg-neutral-50">
                           <Image
                             src={car.image}
                             alt={car.name}
                             fill
-                            className="object-cover"
+                            className="object-contain"
                             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                           />
                         </div>

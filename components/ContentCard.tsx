@@ -58,12 +58,12 @@ export default function ContentCard({
       href={`/${item.slug}`}
       className="group overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm transition-all duration-200 hover:-translate-y-1 hover:shadow-xl"
     >
-      <div className="relative aspect-[4/3] w-full">
+      <div className="relative aspect-[4/3] w-full bg-neutral-50">
         <Image
           src={item.image}
           alt={item.title}
           fill
-          className="object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+          className="object-contain transition-transform duration-300 group-hover:scale-[1.03]"
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         />
         <div className="absolute right-3 top-3 rounded-full bg-white/90 px-3 py-1 text-xs font-semibold uppercase tracking-widest text-neutral-800 shadow">
