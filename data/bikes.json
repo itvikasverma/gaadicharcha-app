@@ -1,9 +1,37 @@
-[
+[{
+  "slug": "royal-enfield-guerrilla-450-2026-announced",
+  "type": "bike",
+  "title": "Royal Enfield Guerrilla 450 2026: Refreshed Model Announced",
+  "image": "/images/bikes/Royal-enfield-guerrilla-450.png",
+  "description": "The 2026 Royal Enfield Guerrilla 450 has been announced with a refreshed lineup, sharper styling, and improved highway performance in the mid-size motorcycle segment.",
+  "content": [
+    "The 2026 Royal Enfield Guerrilla 450 has been announced, and it brings a refreshed lineup of models, sharper styling, and better highway behavior to the mid-size motorcycle segment.",
+    "This refreshed version of the Guerrilla 450 continues to offer the sporty roadster style that users have come to love, but now with more options and styling changes to improve road presence.",
+    "The focus of this motorcycle is to provide a solid mid-range engine, offering versatility for both city riding and highway use."
+  ],
+  "date": "2026-03-29",
+  "specs": {
+    "price": "INR 2.45–2.70 lakh",
+    "mileage": "28–32 kmpl",
+    "engine": "452cc liquid-cooled single-cylinder engine"
+  },
+  "pros": [
+    "Offers solid mid-range engine performance",
+    "Sleek and modern roadster style",
+    "Good highway behavior",
+    "Newer features and styling updates"
+  ],
+  "cons": [
+    "Strong competition in the 400–500cc segment",
+    "A bit heavy for new riders"
+  ],
+  "comparison": null
+},
   {
     "slug": "hero-splendor-city-ride",
     "type": "bike",
     "title": "Hero Splendor City Ride: Mileage King",
-    "image": "/images/bikes/Hero Splendor.png",
+    "image": "/images/bikes/Hero Splendorr.png",
     "description": "Splendor remains a commuter favorite for its fuel economy.",
     "content": [
       "Hero Splendor continues to be the commuter benchmark with excellent mileage.",
@@ -29,7 +57,7 @@
     "slug": "bajaj-pulsar-ns200-review",
     "type": "bike",
     "title": "Bajaj Pulsar NS200 Review: Street Sprint",
-    "image": "/images/bikes/bajaj-pulsar-ns200.png",
+    "image": "/images/bikes/bajaj-pulsar-ns200-.png",
     "description": "A performance commuter with sharp handling and punchy power.",
     "content": [
       "Bajaj Pulsar NS200 brings performance to the daily commute.",

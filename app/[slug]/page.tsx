@@ -107,7 +107,7 @@ export default async function DetailPage({
             src={item.image}
             alt={item.title}
             fill
-            className="object-cover"
+            className="object-contain"
             sizes="(max-width: 1024px) 100vw, 1100px"
             priority
           />
