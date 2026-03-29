@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     description: DEFAULT_DESCRIPTION,
     images: [
       {
-        url: toAbsoluteUrl("/logo.png"),
+        url: toAbsoluteUrl("/site-logo.png"),
         alt: SITE_NAME,
       },
     ],
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: DEFAULT_TITLE,
     description: DEFAULT_DESCRIPTION,
-    images: [toAbsoluteUrl("/logo.png")],
+    images: [toAbsoluteUrl("/site-logo.png")],
   },
   robots: {
     index: true,
@@ -53,8 +53,8 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/icon.png",
-    shortcut: "/icon.png",
+    icon: "/site-favicon-circle.svg",
+    shortcut: "/site-favicon-circle.svg",
     apple: "/apple-icon.png",
   },
 };

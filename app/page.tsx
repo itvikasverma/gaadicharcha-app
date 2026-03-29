@@ -5,8 +5,7 @@ import { getAllContent } from "../lib/content";
 import { DEFAULT_DESCRIPTION, DEFAULT_KEYWORDS, SITE_NAME } from "../lib/site";
 
 export const dynamic = "force-dynamic";
-
-const INITIAL_COUNT = 15;
+const INITIAL_COUNT = 9;
 
 export async function generateMetadata({
   searchParams,

@@ -12,13 +12,13 @@ export default function TopNav() {
     <header className="border-b border-neutral-200 bg-[#fff7ea]">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-5">
         <Link href="/" className="flex items-center gap-3">
-          <div className="relative h-12 w-12 overflow-hidden rounded-xl border border-neutral-200 bg-white">
+          <div className="relative h-14 w-14 overflow-hidden rounded-full border border-neutral-200 bg-white p-1">
             <Image
-              src="/logo.png"
+              src="/site-logo.png"
               alt="GaadiCharcha"
               fill
-              className="object-cover"
-              sizes="48px"
+              className="object-contain"
+              sizes="56px"
               priority
             />
           </div>

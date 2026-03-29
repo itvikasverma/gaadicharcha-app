@@ -17,7 +17,7 @@ export default function LoadMoreGrid({
   batchSize = 6,
   query,
 }: Props) {
-  const [count, setCount] = useState(batchSize);
+  const [count, setCount] = useState(0);
   const [isLoading, setIsLoading] = useState(false);
 
   const visibleItems = useMemo(() => {
