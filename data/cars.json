@@ -1,5 +1,32 @@
 [
   {
+    "slug": "hyundai-verna-2026-update-new-features",
+    "type": "car",
+    "title": "Hyundai Verna 2026 Gets New Features Update",
+    "image": "/images/cars/Hyundai Verna 2026.png",
+    "description": "Hyundai Verna 2026 updated with new features, improved comfort, and better driving experience in the sedan segment.",
+    "content": [
+      "With the new updates, the Hyundai Verna 2026 remains a strong contender in the sedan segment.",
+      "The latest version offers improved features, greater comfort, and improved driving dynamics.",
+      "It remains a top choice for customers seeking a premium sedan experience in India."
+    ],
+    "date": "2026-03-30",
+    "specs": {
+      "price": "INR 12 - 18 lakh",
+      "mileage": "18 - 20 kmpl",
+      "engine": "1.5L Petrol"
+    },
+    "pros": [
+      "Premium design",
+      "Comfortable ride quality",
+      "Feature-rich cabin"
+    ],
+    "cons": [
+      "Sedan demand lower than SUVs"
+    ],
+    "comparison": null
+  },
+  {
     "slug": "renault-duster-2026-trending-review",
     "type": "car",
     "title": "Renault Duster 2026: Legendary SUV is Back in India",
