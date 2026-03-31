@@ -1,4 +1,45 @@
 [{
+  "slug": "auto-news-india-march-2026",
+  "type": "blog",
+  "title": "Today’s Auto News India – Cars & Bikes Update",
+  "image": "/images/blogs/nexonev.png",
+  "description": "Latest car and bike news in India for March . Get updates on EV subsidies, SUV trends, and new vehicle launches.",
+  "tags": [
+    "auto news india",
+    "car news 2026",
+    "bike news today",
+    "ev news india",
+    "latest automobile updates"
+  ],
+  "date": "2026-03-31",
+  "comparison": null,
+  "sections": [
+    {
+      "heading": " Today’s Top Auto News",
+      "body": [
+        "India’s automobile industry is growing fast with new launches and EV trends.",
+        "Here are today’s top updates:"
+      ]
+    },
+    {
+      "heading": " Key Highlights",
+      "body": [
+        "EV subsidy extended till July 2026, making electric vehicles more affordable.",
+        "SUV demand is increasing rapidly in the Indian market.",
+        "Mid-range bikes continue to dominate the two-wheeler segment.",
+        "New car and bike launches are happening every week."
+      ]
+    },
+    {
+      "heading": " Market Trend",
+      "body": [
+        "Overall, India is shifting towards electric vehicles and feature-loaded cars.",
+        "Automakers are focusing more on safety, technology, and performance in 2026."
+      ]
+    }
+  ]
+},
+  {
   "slug": "kia-seltos-5-star-bharat-ncap-2026",
   "type": "blog",
   "title": "Kia Seltos Gets 5-Star Bharat NCAP Rating – Full Safety Details 2026",
