@@ -1,4 +1,50 @@
-[{
+
+[
+  {
+    "slug": "mahindra-sales-march-2026",
+    "type": "blog",
+    "title": "Mahindra Celebrates a Major Achievement: Over 60,000 SUVs Sold in March 2026",
+    "image": "/images/blogs/wa-scorpio-n.png",
+    "description": "In March 2026, Mahindra & Mahindra marks a groundbreaking achievement with record SUV sales, approaching 100,000 total units as FY26 concludes on a high note.",
+    "tags": [
+      "mahindra sales march 2026",
+      "mahindra suv news",
+      "indian auto industry trends",
+      "mahindra total sales 2026",
+      "auto sales report india"
+    ],
+    "date": "2026-04-01",
+    "comparison": null,
+    "sections": [
+      {
+        "heading": "Outstanding Performance in SUV Sales",
+        "body": [
+          "Mahindra & Mahindra wraps up the fiscal year 2025-26 with remarkable success, achieving their highest monthly SUV sales to date.",
+          "The domestic SUV sector exceeded 60,000 units, fueled by high demand for popular models like the Scorpio-N, XUV700, and Thar series.",
+          "Overall vehicle dispatches for the month approached 100,000 units, highlighting Mahindra's expanding presence in the Indian market."
+        ]
+      },
+      {
+        "heading": "Highlights of Sales Performance",
+        "body": [
+          "Domestic SUV sales reached 60,272 units, reflecting a noteworthy year-over-year increase compared to March 2025.",
+          "When combining domestic and export sales, the total hit 99,969 units, just short of the 100,000 milestone.",
+          "Sales of commercial vehicles and 3-wheelers also exhibited consistent growth, contributing to a 21% rise in overall volumes.",
+          "Annual SUV sales for FY26 reached a record 660,000 units, marking a 20% rise from the previous fiscal year."
+        ]
+      },
+      {
+        "heading": "Strategic Insights & Future Prospects",
+        "body": [
+          "This impressive growth can be attributed to enhanced production capabilities and the successful introduction of new models in the 'Born Electric' and XUV ranges.",
+          "Despite challenges within the global supply chain, Mahindra has maintained a robust order book, with waiting times gradually normalizing.",
+          "As FY27 approaches, the brand aims to place a strong emphasis on its forthcoming electric SUV lineup to keep the growth momentum going."
+        ]
+      }
+    ]
+  }
+,
+{
   "slug": "auto-news-india-march-2026",
   "type": "blog",
   "title": "Today’s Auto News India – Cars & Bikes Update",

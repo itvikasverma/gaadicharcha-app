@@ -1,4 +1,36 @@
-[{
+[
+  {
+    "slug": "upcoming-bike-launches-india-april-2026",
+    "type": "bike",
+    "title": "New Bike Launches April 2026: Triumph, Bajaj, and RE Electric",
+    "image": "/images/bikes/Triumph 2026.png",
+    "description": "April 2026 marks a massive shift in India's two-wheeler market with affordable Triumph 350s, the Pulsar 180 comeback, and Royal Enfield's first EV.",
+    "content": [
+      "Triumph India is officially launching its 350cc lineup on April 6, 2026, including the Speed T4 350 and Scrambler 350 X.",
+      "The 2026 Bajaj Pulsar 180 is making a surprise comeback with a new LED headlamp, digital LCD console, and Bluetooth navigation.",
+      "Royal Enfield is set to unveil the production version of the 'Flying Flea C6' electric bike by the end of April.",
+      "These new models target the growing demand for mid-capacity performance and premium electric urban mobility in India.",
+      "With aggressive pricing and modern tech, these launches are expected to dominate the market sentiment this quarter."
+    ],
+    "date": "2026-04-01",
+    "specs": {
+      "price": "₹1.70 Lakh - ₹2.50 Lakh",
+      "mileage": "35–45 kmpl / 100+ km (EV)",
+      "engine": "350cc Oil-cooled / Electric"
+    },
+    "pros": [
+      "Competitive pricing for Triumph 350 range",
+      "Modern tech updates for the iconic Pulsar 180",
+      "Unique retro-modern design of RE Flying Flea",
+      "Lower GST benefits for 350cc engines"
+    ],
+    "cons": [
+      "RE Electric may have a high entry price",
+      "Triumph 350 offers lower power than the 400 series"
+    ],
+    "comparison": null
+  }
+,{
   "slug": "ather-affordable-electric-scooter-2026-price-update",
   "type": "bike",
   "title": "Ather Affordable Electric Scooter 2026: Price Will Not Be Below ₹1 Lakh",
