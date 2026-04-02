@@ -1,5 +1,41 @@
 
+
 [
+  {
+    "slug": "india-auto-launches-april-2026-updates",
+    "type": "blog",
+    "title": "April 2026 Auto Roundup: Triumph 350, Taigun Update, and RE Electric",
+    "image": "/images/blogs/flying flea c6 price.png",
+    "description": "April highlights the release of 350cc motorcycles and long-range electric vehicles. Check out the latest on the Triumph Speed 350, VW Taigun update, and Royal Enfield's Flying Flea.",
+    "tags": ["april 2026 bike launches", "triumph 350cc gst", "vw taigun facelift 2026", "flying flea c6 price", "upcoming cars india"],
+    "date": "2026-04-02",
+    "sections": [
+      {
+        "heading": "Triumph & Bajaj: The 350cc Revolution",
+        "body": [
+          "On April 6, Triumph will debut its 350cc lineup, taking advantage of the new 18% GST rate for engines under 350cc.",
+          "These bikes might be marketed under the '400' category to preserve their premium status despite the smaller engine size.",
+          "Bajaj is anticipated to launch its 350cc variants of the Pulsar NS and Dominar series in the latter half of the month."
+        ]
+      },
+      {
+        "heading": "Exciting New Car Launches: From Taigun to CLA EV",
+        "body": [
+          "Volkswagen is set to showcase the Taigun facelift on April 9, equipped with an enhanced 8-speed automatic transmission.",
+          "The luxury market will welcome the Mercedes CLA EV on April 24, boasting an impressive range of nearly 800km.",
+          "Mid-month, Nissan is rumored to introduce the 'Tekton' SUV, based on the well-loved Renault Duster platform."
+        ]
+      },
+      {
+        "heading": "Electric Two-Wheelers in the Spotlight",
+        "body": [
+          "April 10 marks a historic moment for Royal Enfield with the announcement of the Flying Flea C6 electric motorcycle's pricing.",
+          "Ather Energy is also making waves with its forthcoming 'EL01' affordable scooter, projected to be just above ₹1 lakh, ensuring quality craftsmanship."
+        ]
+      }
+    ]
+  }
+,
   {
     "slug": "mahindra-sales-march-2026",
     "type": "blog",
