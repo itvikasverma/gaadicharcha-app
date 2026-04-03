@@ -1,5 +1,39 @@
 [
+  
   {
+    "slug": "exciting-bike-scooter-releases-late-april-2026",
+    "type": "bike",
+    "title": "Exciting Releases: TVS Jupiter CNG, BMW F 450 GS & Aprilia Tuareg 457",
+    "image": "/images/bikes/bmw-f-450-gs.png",
+    "image_2": "/images/bikes/TVS Jupiter CNG.png",
+    "description": "Late April 2026 is set to shake up the Indian two-wheeler landscape, introducing the country’s initial CNG scooter and a thrilling mid-capacity adventure bike rivalry.",
+    "content": [
+      "The latter half of April 2026 looks promising for the Indian two-wheeler market, with significant launches poised to transform both the commuter and premium adventure segments.",
+      "Kicking off on April 15 is the eagerly awaited TVS Jupiter CNG. As India’s premier CNG-powered scooter, it aims to change the game for daily commuting in urban areas by incorporating dual-fuel technology and offering dramatically reduced operating costs.",
+      "Adventure lovers can look forward to April 30 for an exhilarating off-road contest. BMW Motorrad will unveil the F 450 GS, a robust, mid-weight ADV crafted to bridge the space between the entry-level 310 GS and the heavyweight 900 GS seamlessly.",
+      "On the same date, Aprilia will introduce the Tuareg 457. Powered by the dynamic twin-cylinder engine from the RS 457, this rally-inspired adventure bike is geared up to compete directly with the Royal Enfield Himalayan 450.",
+      "Whether you’re seeking affordable daily travel or thrilling weekend trail adventures, the upcoming weeks are bound to present something extraordinary for Indian biking enthusiasts."
+    ],
+    "date": "2026-04-03",
+    "specs": {
+      "price": "₹95,000 – ₹4.80 Lakh (Projected)",
+      "mileage": "25 kmpl (ADVs) to 80+ km/kg (CNG)",
+      "engine": "125cc CNG / 450cc Twin-Cylinders"
+    },
+    "pros": [
+      "TVS Jupiter CNG delivers unmatched low operating expenses",
+      "BMW F 450 GS features true premium GS technology on a lighter frame",
+      "Aprilia Tuareg 457 boasts high-performance twin-cylinder power",
+      "Wide range of options catering to various budget needs"
+    ],
+    "cons": [
+      "CNG refueling stations remain scarce in Tier-3 cities",
+      "Aprilia and BMW models may come with a premium due to import/brand taxes",
+      "Higher seat heights on the ADVs may not suit shorter riders"
+    ],
+    "comparison": null
+  }
+,{
     "slug": "upcoming-bike-launches-india-april-2026",
     "type": "bike",
     "title": "New Bike Launches April 2026: Triumph, Bajaj, and RE Electric",
