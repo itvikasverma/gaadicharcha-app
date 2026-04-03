@@ -26,6 +26,10 @@ export async function generateMetadata({
     return { title: "Not found" };
   }
 
+  const images = [item.image, item.image_2]
+    .filter((image): image is string => Boolean(image))
+    .map((image) => toAbsoluteUrl(image));
+
   return {
     title: item.title,
     description: item.description,
@@ -41,13 +45,13 @@ export async function generateMetadata({
       siteName: SITE_NAME,
       publishedTime: item.date,
       modifiedTime: item.updatedAt ?? item.date,
-      images: [toAbsoluteUrl(item.image)],
+      images,
     },
     twitter: {
       card: "summary_large_image",
       title: item.title,
       description: item.description,
-      images: [toAbsoluteUrl(item.image)],
+      images,
     },
   };
 }
@@ -102,15 +106,36 @@ export default async function DetailPage({
       </div>
 
       <div className="rounded-2xl border border-neutral-200 bg-white p-2 shadow-sm">
-        <div className="relative aspect-[16/9] w-full overflow-hidden rounded-xl">
-          <Image
-            src={item.image}
-            alt={item.title}
-            fill
-            className="object-contain"
-            sizes="(max-width: 1024px) 100vw, 1100px"
-            priority
-          />
+        <div
+          className={`grid gap-2 ${
+            item.image_2 ? "md:grid-cols-2" : "grid-cols-1"
+          }`}
+        >
+          <div className="relative aspect-[16/9] w-full overflow-hidden rounded-xl">
+            <Image
+              src={item.image}
+              alt={item.title}
+              fill
+              className="object-contain"
+              sizes={
+                item.image_2
+                  ? "(max-width: 768px) 100vw, 50vw"
+                  : "(max-width: 1024px) 100vw, 1100px"
+              }
+              preload
+            />
+          </div>
+          {item.image_2 && (
+            <div className="relative aspect-[16/9] w-full overflow-hidden rounded-xl">
+              <Image
+                src={item.image_2}
+                alt={`${item.title} alternate view`}
+                fill
+                className="object-contain"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </div>
+          )}
         </div>
       </div>
 

@@ -1,4 +1,35 @@
-[
+[{
+  "slug": "hyundai-boulder-concept-full-details",
+  "type": "car",
+  "title": "Hyundai Boulder Concept 2026: Features, Design & Is It a Ford Bronco Rival?",
+  "image": "/images/blogs/hyundai-boulder-concept-fron.png",
+  "description": "Explore the Hyundai Boulder Concept, a rugged off-road SUV with a ladder-frame structure, featuring impressive 37-inch tires, 'Art of Steel' design, and cutting-edge trail technology.",
+  "content": [
+    "The Hyundai Boulder Concept makes a bold statement in the extreme off-road vehicle market, representing a significant departure from Hyundai's typical crossover style.",
+    "Constructed on a sturdy ladder-frame chassis, this 'Art of Steel' SUV boasts enormous 37-inch mud-terrain tires and remarkable ground clearance, ready for the toughest trails.",
+    "Inside, it harmonizes rugged practicality with high-tech features, including tactile physical knobs, fold-out tray tables, and an advanced real-time off-road navigation system.",
+    "The exterior is eye-catching with a striking Liquid Titanium finish, safari-style roof windows, coach doors, and a functional double-hinged tailgate.",
+    "Though it remains a concept for the time being, the Boulder platform hints at an eagerly awaited midsize pickup truck that is expected to begin production by 2030."
+  ],
+  "date": "2026-04-03",
+  "specs": {
+    "price": "Concept (Production Anticipated 2030)",
+    "mileage": "N/A (Concept Vehicle)",
+    "engine": "To Be Announced (Projected Electric/Hybrid)"
+  },
+  "pros": [
+    "Genuine ladder-frame off-road performance",
+    "Innovative double-hinged tailgate and coach doors",
+    "Striking, boxy design with impressive 37-inch tires",
+    "Sophisticated software-driven off-road guidance system"
+  ],
+  "cons": [
+    "Currently a concept vehicle only",
+    "Production model isn't expected until 2030",
+    "Mainly focused on the US market"
+  ],
+  "comparison": null
+},
   {
     "slug": "hyundai-verna-2026-update-new-features",
     "type": "car",

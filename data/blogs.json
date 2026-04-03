@@ -1,6 +1,103 @@
 
 
+
 [
+  {
+    "slug": "hyundai-boulder-concept-suv-new-york-2026",
+    "type": "blog",
+    "title": "Hyundai Boulder Concept Unveiled in NY: A Sneak Peek at Its Off-Road Potential",
+    "image": "/images/blogs/hyundai-boulder-concept.png",
+    "image_2": "/images/blogs/hyundai-boulder-concept-fron.png",
+
+    "description": "Hyundai showcased the rugged Boulder Concept SUV at the 2026 New York Auto Show, offering a glimpse of a new body-on-frame pickup truck designed for aggressive off-road adventures.",
+    "tags": [
+      "hyundai boulder concept",
+      "new york auto show 2026",
+      "off-road suv",
+      "hyundai pickup truck",
+      "body-on-frame suv"
+    ],
+    "date": "2026-04-03",
+    "comparison": null,
+    "sections": [
+      {
+        "heading": "An Unexpected Global Reveal",
+        "body": [
+          "Hyundai made waves at the 2026 New York International Auto Show with the unexpected debut of the Boulder Concept.",
+          "Embodying a fresh 'Art of Steel' design philosophy, the Boulder marks a significant shift from Hyundai's traditionally sleek crossovers. Its bold, boxy profile is intended to rival iconic models like the Ford Bronco and Land Rover Defender.",
+          "Dressed in striking Liquid Titanium paint, the SUV stands out with its coach-style doors, safari-style fixed roof windows, and a pill-shaped grille lighting that cleverly spells 'H' in Morse code."
+        ]
+      },
+      {
+        "heading": "Built for Adventure & Equipped with Advanced Tech",
+        "body": [
+          "The Boulder is not just a pretty face; it’s engineered as a serious off-road vehicle, built on a robust ladder-frame chassis.",
+          "It features impressive 37-inch mud-terrain tires, outstanding ground clearance, and formidable approach and departure angles to conquer the most challenging trails.",
+          "Practicality reaches new heights with a unique double-hinged tailgate that swings open from either side, a power-operated drop-down rear window, and fold-out tray tables inside.",
+          "Hyundai has also introduced a software-based 'real-time off-road guidance system,' acting as a digital spotter displayed on the center screens, while the other controls in the cabin feature chunky, tactile knobs that are convenient to use on rough terrain."
+        ]
+      },
+      {
+        "heading": "Prospective Production and Market Implications",
+        "body": [
+          "Although the Boulder is currently a concept, Hyundai has confirmed that this architecture will lead to a midsize pickup truck set to hit production by 2030, specifically targeting the American market.",
+          "Designed, developed, and manufactured in the US using Hyundai's own steel, this platform signals the brand's boldest strategy to enter the rugged work-and-play segment.",
+          "Will it be available in India? As it stands, the Boulder is primarily a US-oriented initiative. However, it hints at Hyundai's growing interest in off-road vehicles, alongside plans for a distinct off-road-capable monocoque SUV slated for the Indian market by the end of the decade."
+        ]
+      }
+    ]
+  },
+  {"slug": "toyota-fj-cruiser-legacy-and-baby-land-cruiser-2026",
+    "type": "blog",
+    "title": "The Toyota FJ Cruiser: Why This Off-Road Legend Still Dominates in 2026",
+    "image": "/images/blogs/fj-cruiser-front-view.png",
+    "image_2": "/images/blogs/fj-cruiser-off-road.png",
+    "description": "Exploring the lasting impact of the iconic Toyota FJ Cruiser, its impressive resale values, and the thrilling introduction of the new 'Baby Land Cruiser' FJ in 2026.",
+    "tags": [
+      "toyota fj cruiser",
+      "land cruiser fj 2026",
+      "baby land cruiser",
+      "off-road cars india",
+      "toyota 4x4"
+    ],
+    "date": "2026-04-03",
+    "comparison": null,
+    "sections": [
+      {
+        "heading": "A Timeless Design Classic",
+        "body": [
+          "Years after it first hit the market, the classic Toyota FJ Cruiser continues to be one of the most iconic and capable SUVs worldwide.",
+          "As a modern tribute to the legendary FJ40, its retro-futuristic design has withstood the test of time, making it a favorite among enthusiasts.",
+          "Boasting a short wheelbase, elevated ground clearance, and a distinctive three-wiper blade system, it remains an essential tool for serious off-roading, built on a durable body-on-frame structure."
+        ]
+      },
+      {
+        "heading": "2026 Market Overview: An Investment Gem",
+        "body": [
+          "By 2026, the classic FJ Cruiser has evolved from a second-hand vehicle into a coveted collector's treasure, with well-kept models fetching resale prices that exceed their original showroom values.",
+          "This remarkable appreciation in value can be attributed to its legendary reliability, particularly the renowned 4.0-litre V6 engine, known for traversing hundreds of thousands of kilometers without significant overhaul.",
+          "Today, collectors are actively seeking out the 'Final Edition' models, which have set the benchmark for 4x4 heritage."
+        ]
+      },
+      {
+        "heading": "Exciting News: The FJ is Back",
+        "body": [
+          "While the classic edition retains its mythical stature, Toyota officially revived the nameplate in late March 2026 with the launch of the Toyota Land Cruiser FJ (often dubbed the 'Baby Land Cruiser').",
+          "Constructed on a robust ladder-frame chassis, this model is equipped with a 2.7-litre petrol engine delivering approximately 163hp, combined with a part-time 4WD system.",
+          "Maintaining the iconic boxy shape and spare wheel mounted on the tailgate, it debuted in Thailand priced around ₹36.5 lakh, and is eagerly anticipated to enter the Indian market as a rugged lifestyle option right below the Fortuner."
+        ]
+      },
+      {
+        "heading": "Gazing into the Future: Electric Possibilities",
+        "body": [
+          "As we look further into the future, rumors persist regarding Toyota's 'Compact Cruiser EV' concept, signaling plans for a fully electric successor to the FJ.",
+          "Design sneak peeks hint at a dual-motor AWD system, aiming to replicate the original vehicle's adventurous spirit while operating on a contemporary, zero-emission platform.",
+          "Whether you're in pursuit of a classic V6 or waiting for the new Land Cruiser FJ, the legacy remains as robust as ever."
+        ]
+      }
+    ]
+  }
+,
   {
     "slug": "india-auto-launches-april-2026-updates",
     "type": "blog",

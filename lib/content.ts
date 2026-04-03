@@ -26,6 +26,7 @@ export type ContentItem = {
   type: ContentType;
   title: string;
   image: string;
+  image_2?: string;
   description: string;
   content?: string[];
   sections?: ContentSection[];
@@ -77,13 +78,16 @@ export function getContentUrl(item: Pick<ContentItem, "slug">) {
 
 export function buildSchema(item: ContentItem) {
   const isArticleType = item.type === "blog" || item.type === "news";
+  const images = [item.image, item.image_2]
+    .filter((image): image is string => Boolean(image))
+    .map((image) => toAbsoluteUrl(image));
   const base = {
     "@context": "https://schema.org",
     "@type": isArticleType ? "Article" : "Article",
     headline: item.title,
     url: getContentUrl(item),
     mainEntityOfPage: getContentUrl(item),
-    image: [toAbsoluteUrl(item.image)],
+    image: images,
     description: item.description,
     datePublished: item.date,
     dateModified: item.updatedAt ?? item.date,
