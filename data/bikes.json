@@ -1,5 +1,36 @@
 [
-  
+  {
+"slug": "honda-activa-electric-launch-updates-2026",
+    "type": "bike",
+    "title": "Honda Activa Electric 2026: The Ultimate EV King is Finally Here",
+    "image": "/images/bikes/honda-activa-electric-2026-1.png",
+     "image_2": "/images/bikes/honda-activa-electric-2026-2.png",
+    "description": "Honda is set to shake up the electric vehicle landscape with the Activa Electric in 2026. Get the lowdown on its battery range, swappable technology, and pricing.",
+    "content": [
+        "After extensive development, Honda Motorcycle and Scooter India (HMSI) has officially launched the production model of the Activa Electric, known as Activa E.",
+        "Aimed at the huge family commuter market, the Activa Electric keeps the beloved design of the petrol variant while swapping the internal combustion engine for a quiet, efficient electric motor.",
+        "One of the standout features is Honda's 'Mobile Power Pack e:' technology, which allows users to easily exchange depleted batteries at designated Honda stations, effectively removing any downtime for charging.",
+        "The scooter includes a digital display with turn-by-turn navigation, keyless start, and generous under-seat storage thanks to the clever positioning of the electric motor.",
+        "Competitively priced against rivals like the TVS iQube and Bajaj Chetak, the Activa Electric is poised to lead the EV sales charts by the end of Q2 2026."
+    ],
+    "date": "2026-04-04",
+    "specs": {
+        "price": "₹1.05 Lakh – ₹1.25 Lakh (Expected)",
+        "mileage": "100 - 130 km per charge",
+        "engine": "Mid-Drive Electric Motor (Swappable Battery)"
+    },
+    "pros": [
+        "Battery swapping technology eradicates charging wait times",
+        "Familiar, family-friendly aesthetics",
+        "Renowned Honda reliability and a vast service network",
+        "Attractive pricing for the base model"
+    ],
+    "cons": [
+        "Battery swap locations are currently limited to major Tier 1 cities",
+        "Top speed falls short compared to high-performance EVs like the Ather 450X"
+    ],
+    "comparison": null
+},
   {
     "slug": "exciting-bike-scooter-releases-late-april-2026",
     "type": "bike",
