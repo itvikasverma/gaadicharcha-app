@@ -1,4 +1,35 @@
-[{
+[
+{
+"slug": "toyota-urban-cruiser-ebella-launch-date-price",
+    "type": "car",
+    "title": "Toyota Urban Cruiser Ebella: Launch Date, Expected Price & Features",
+    "image": "/images/cars/toyota-urban-cruiser.png",
+    "image_2": "/images/cars/toyota-urban-cruiser-1.png",
+    "description": "Toyota is gearing up to unveil the Urban Cruiser Ebella, its new electric SUV, in India on April 15, 2026. Discover details about its battery specifications, range, and pricing.",
+    "content": [
+      "Toyota is making a significant entry into the Indian electric vehicle market with the much-awaited Urban Cruiser Ebella, set to debut on April 15, 2026.",
+      "Constructed on a specialized EV skateboard platform, the Ebella aims to blend Toyota's renowned reliability with cutting-edge electric mobility technology.",
+      "It’s anticipated to come equipped with a strong 60 kWh battery pack, offering a practical driving range of over 450 km on a single charge.",
+      "The interior will feature a modern cabin with a sizable touchscreen infotainment system, sophisticated connected car technology, and Level 2 ADAS for improved safety.",
+      "With an expected pricing range of ₹18 Lakh to ₹23 Lakh, the Ebella will compete head-to-head with the Maruti Suzuki eVitara, Tata Curvv EV, and MG ZS EV."
+    ],
+    "date": "2026-04-06",
+    "specs": {
+      "price": "₹18.00 Lakh – ₹23.00 Lakh (Projected)",
+      "mileage": "450+ km (Projected Range)",
+      "engine": "Electric Motor"
+    },
+    "pros": [
+      "Reputable reliability and build quality from Toyota",
+      "Roomy interior thanks to the dedicated EV skateboard platform",
+      "Standard Level 2 ADAS available in mid and top variants"
+    ],
+    "cons": [
+      "Higher anticipated starting price compared to ICE rivals",
+      "Development of public fast-charging infrastructure in Tier 2/3 cities is still in progress"
+    ],
+    "comparison": null
+},{
    "slug": "tata-sierra-ev-2026-bookings-price-range",
     "type": "car",
     "title": "Tata Sierra EV 2026: Bookings Open, Specs, and Range Details",

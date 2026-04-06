@@ -1,4 +1,36 @@
 [
+{
+    "slug": "royal-enfield-bullet-650-launch-specs",
+    "type": "bike",
+    "title": "Royal Enfield Bullet 650: The Classic Twin-Cylinder Set to Launch in April 2026",
+    "image": "/images/bikes/royal-enfield-bullet-650.png",
+        "image_2": "/images/bikes/royal-enfield-bullet-650-1.png",
+
+    "description": "The beloved 'Dug-Dug' evolves! Royal Enfield will unveil the Bullet 650 on April 30, 2026. Here’s all the essential info regarding its price and specifications.",
+    "content": [
+      "Royal Enfield is enhancing its 650cc twin-cylinder lineup with the eagerly anticipated Bullet 650, slated for release on April 30, 2026.",
+      "This new model retains the classic, nostalgic appeal of the standard Bullet 350 while showcasing the reliable 648cc parallel-twin engine found in both the Interceptor and Continental GT.",
+      "Expect to see the traditional teardrop fuel tank, a single-piece stepped seat, squared-off fenders, and abundant chrome accents to preserve its vintage style.",
+      "With an estimated output of 47 bhp and 52 Nm of torque, it aims to serve as a relaxed highway cruiser while delivering the renowned low-end power that the Bullet brand is known for.",
+      "Priced around ₹3.20 Lakh, the Bullet 650 is set to be the perfect upgrade for Royal Enfield enthusiasts seeking classic aesthetics paired with contemporary multi-cylinder performance."
+    ],
+    "date": "2026-04-06",
+    "specs": {
+      "price": "₹3.20 Lakh – ₹3.40 Lakh (Estimated)",
+      "mileage": "22 - 25 kmpl",
+      "engine": "648cc Parallel-Twin (Air/Oil-Cooled)"
+    },
+    "pros": [
+      "Timeless Bullet styling combined with modern performance capabilities",
+      "Well-refined and reliable 650cc twin-cylinder engine",
+      "Exceptional comfort for highway cruising"
+    ],
+    "cons": [
+      "Expected to be quite heavy (likely over 210 kg)",
+      "Lacks contemporary features such as riding modes or a full TFT display"
+    ],
+    "comparison": null
+},
   {
 "slug": "honda-activa-electric-launch-updates-2026",
     "type": "bike",
