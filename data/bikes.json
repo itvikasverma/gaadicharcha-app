@@ -1,4 +1,35 @@
-[
+[{
+ "slug": "ktm-390-adventure-r-2026-specs-launch",
+    "type": "bike",
+    "title": "2026 KTM 390 Adventure R: The Ultimate Sub-400cc Rally Machine",
+    "image": "/images/bikes/PHO_BIKE_DET_Travel-KTM-2025-390-1.png",
+    "image_2": "/images/bikes/PHO_BIKE_DET_Travel-KTM-2025-390-2.png",
+    "description": "The rugged 2026 KTM 390 Adventure R is on its way. With its new 399cc engine, rally-inspired design, and long-travel suspension, it’s geared up to tackle any trail.",
+    "content": [
+      "Attention adventure riders! KTM is set to launch the extensively upgraded 2026 390 Adventure R in India, marking a significant shift from its predecessor.",
+      "Departing from a street-focused tourer, the new 'R' variant embraces a serious rally vibe, showcasing a high-mounted color TFT display and a flat, single-piece enduro seat.",
+      "This powerhouse is driven by the dynamic 399cc LC4c engine from the new Duke 390, optimized for enhanced low-end torque to handle challenging off-road terrains.",
+      "The standout enhancement is its suspension system: fully adjustable WP components boasting impressive 230mm travel at both the front and rear, complemented by a durable wire-spoked wheel setup with 21-inch front and 18-inch rear sizes.",
+      "With a projected price of under ₹4 Lakh, the 390 Adventure R is positioned to be the top contender in its class, ready to challenge the Royal Enfield Himalayan 450."
+    ],
+    "date": "2026-04-07",
+    "specs": {
+      "price": "₹3.60 Lakh – ₹3.90 Lakh (Expected)",
+      "mileage": "25 - 28 kmpl",
+      "engine": "399cc Liquid-Cooled Single Cylinder"
+    },
+    "pros": [
+      "Genuine off-road capabilities with a 21/18-inch wheel arrangement",
+      "Fully adjustable long-travel WP suspension",
+      "Powerful performance from the new 399cc engine",
+      "Bold rally-inspired aesthetics"
+    ],
+    "cons": [
+      "Tall 885mm seat height may pose a challenge for shorter riders",
+      "Higher price point places it well above the Himalayan 450"
+    ],
+    "comparison": null
+},
 {
     "slug": "royal-enfield-bullet-650-launch-specs",
     "type": "bike",
