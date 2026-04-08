@@ -1,4 +1,33 @@
 [{
+    "slug": "yamaha-aerox-e-electric-scooter-2026",
+    "type": "bike",
+    "title": "Unveiling the Yamaha Aerox E: The Most Dynamic Electric Scooter of 2026",
+    "image": "/images/bikes/yamaha-aerox-e-2026.png",
+    "description": "Yamaha steps into the performance electric vehicle arena with the Aerox E. Boasting liquid-cooled battery technology and a bold maxi-scooter design, it’s geared towards thrill enthusiasts.",
+    "content": [
+      "Yamaha is set to make a splash in the electric scooter scene with the awaited Aerox E, launching in late April.",
+      "Maintaining the bold, maxi-scooter aesthetics of its petrol-powered counterpart, the Aerox E swaps the 155cc engine for a powerful mid-drive electric motor.",
+      "A standout feature is its liquid-cooled battery system, engineered to uphold top performance during spirited rides in the intense Indian heat.",
+      "Equipped with a sleek TFT display offering track-oriented data, cornering ABS, and various riding modes, including a fierce 'Track Mode'.",
+      "Positioned to compete with the Ather 450 Apex and the TVS X, the Aerox E is set to become the go-to zero-emission ride for weekend thrill-seekers."
+    ],
+    "date": "2026-04-08",
+    "specs": {
+      "price": "₹1.50 Lakh – ₹1.70 Lakh (Estimated)",
+      "mileage": "110 km (Real-world sports mode)",
+      "engine": "High-Performance Mid-Drive Motor"
+    },
+    "pros": [
+      "Eye-catching maxi-scooter design with striking road presence",
+      "Liquid-cooled battery guarantees consistent high-speed performance",
+      "Sporty handling with a robust underbone frame and wide tires"
+    ],
+    "cons": [
+      "Central spine limits floorboard practicality for everyday use",
+      "Higher price point compared to conventional electric scooters"
+    ],
+    "comparison": null
+},{
  "slug": "ktm-390-adventure-r-2026-specs-launch",
     "type": "bike",
     "title": "2026 KTM 390 Adventure R: The Ultimate Sub-400cc Rally Machine",

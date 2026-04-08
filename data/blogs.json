@@ -1,5 +1,50 @@
 
-[
+[{
+    "slug": "ev-battery-care-summer-heat-india-2026",
+    "type": "blog",
+    "title": "Summer 2026 EV Tips: Safeguarding Your Electric Car Battery from High Temperatures",
+    "image": "/images/blogs/slug ev-battery.png",
+    "description": "As temperatures rise throughout India this April, here are the top 5 essential strategies to maintain your EV's range and safeguard its battery in intense heat.",
+    "tags": [
+        "ev battery care",
+        "electric cars summer tips",
+        "ev range drop",
+        "india auto blog 2026",
+        "thermal management ev"
+    ],
+    "date": "2026-04-08",
+    "comparison": null,
+    "sections": [
+        {
+            "heading": "The Summer Dilemma for EVs",
+            "body": [
+                "With April temperatures soaring past 40 degrees in various regions of India, electric vehicle owners are confronting a significant challenge: the heat.",
+                "Elevated temperatures compel your EV's Thermal Management System (TMS) to work harder to maintain battery temperature, which can drain power and noticeably affect your driving range."
+            ]
+        },
+        {
+            "heading": "1. Pre-Condition Your EV While Charging",
+            "body": [
+                "One of the best ways to preserve range is by 'pre-conditioning' your vehicle's cabin. Use the mobile app to activate your car's AC 10-15 minutes before you head out, while it's still charging.",
+                "This allows the cabin to cool using electricity from the grid rather than the battery, ensuring you leave your home with both a full charge and a comfortable interior."
+            ]
+        },
+        {
+            "heading": "2. Avoid Charging to 100% Under Direct Sunlight",
+            "body": [
+                "Lithium-ion batteries do not perform well when left at 100% charge in the sun. If you must park outdoors during the heat of the day, try to limit your charge level to 80% to alleviate stress on the battery.",
+                "Whenever possible, prefer to charge overnight when the temperatures are much cooler."
+            ]
+        },
+        {
+            "heading": "3. Keep an Eye on Your Tire Pressure",
+            "body": [
+                "Heat can cause the air in your tires to expand quickly. Over-inflated tires can reduce grip and cause uneven wear, while under-inflated tires can significantly increase rolling resistance and diminish your range.",
+                "Make it a habit to check your EV's tire pressure system (TPMS) weekly and maintain it at the manufacturer's recommended level for safe summer driving."
+            ]
+        }
+    ]
+},
 {
     "slug": "hybrid-cars-revolution-india-2026-trends",
     "type": "blog",
