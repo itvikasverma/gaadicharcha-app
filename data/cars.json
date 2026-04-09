@@ -1,4 +1,34 @@
-[
+[{
+   "slug": "volkswagen-taigun-facelift-2026-launch-features",
+    "type": "car",
+    "title": "Volkswagen Taigun Facelift 2026 Launched: New Gearbox, ADAS & Price",
+    "image": "/images/cars/vw-taigun-facelift-2026.png",
+    "description": "The revamped 2026 Volkswagen Taigun facelift is officially launched! It showcases a new 8-speed automatic gearbox for the 1.0L TSI and Level 2 ADAS, gearing up to reclaim its place in the SUV segment.",
+    "content": [
+      "Volkswagen India has unveiled the eagerly awaited mid-cycle facelift for the Taigun SUV as of April 9, 2026, featuring substantial enhancements in both mechanics and tech.",
+      "A major highlight is the newly introduced 8-speed torque converter automatic transmission for the 1.0L TSI engine, which replaces the older 6-speed model, promising improved highway performance and better fuel efficiency.",
+      "On the exterior, the Taigun boasts a more aggressive front design with an illuminated VW badge, redesigned matrix LED headlights, and a fresh set of 17-inch aero-style alloy wheels.",
+      "Inside, the cabin has received significant upgrades, including Level 2 ADAS, a 360-degree camera, and premium soft-touch materials on the dashboard, enhancing its upscale feel.",
+      "With prices beginning at ₹11.99 Lakh, the updated Taigun is well-positioned to compete with the Hyundai Creta, Kia Seltos, and the newly introduced Renault Duster."
+    ],
+    "date": "2026-04-09",
+    "specs": {
+      "price": "₹11.99 Lakh – ₹20.50 Lakh (Ex-Showroom)",
+      "mileage": "18.5 - 20.2 kmpl",
+      "engine": "1.0L TSI / 1.5L TSI EVO"
+    },
+    "pros": [
+      "The new 8-speed automatic enhances the smoothness of the 1.0L TSI",
+      "Inclusion of Level 2 ADAS and a 360-degree camera",
+      "Exceptional driving dynamics and build quality",
+      "Illuminated logo and refreshed styling deliver impressive road presence"
+    ],
+    "cons": [
+      "1.5L GT variants see a significant price increase",
+      "Rear seating remains more accommodating for two adults rather than three"
+    ],
+    "comparison": null
+},
 {
     "slug": "renault-duster-2026-deliveries-commence-india",
     "type": "car",

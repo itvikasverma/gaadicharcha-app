@@ -1,4 +1,38 @@
-[{
+[
+{
+  "slug": "royal-enfield-flying-flea-c6-electric-launch",
+    "type": "bike",
+    "title": "Royal Enfield Flying Flea C6: The Electric Classic Unveiled", 
+  "image": "/images/bikes/re-flying-flea-c6.png",
+    "image_2": "/images/bikes/re-flying-flea-c6-1.png",
+
+    "description": "Royal Enfield takes a bold step forward with the Flying Flea C6. Dive into its battery capabilities, lightweight nostalgic design, and projected pricing for this electric motorcycle.",
+    "content": [
+        "A significant milestone has arrived as Royal Enfield proudly unveils its inaugural electric motorcycle, the Flying Flea C6, right before its much-anticipated debut in the market.",
+        "Drawing inspiration from the nimble paratrooper motorcycles of World War II, the C6 showcases an impressive retro-futuristic design, featuring a forged aluminum frame and iconic girder front forks.",
+        "Tailored for city commuting, this model shifts away from traditional heavy engines in favor of a quiet, mid-mounted electric motor, providing immediate torque that’s ideal for navigating urban traffic.",
+        "The battery is thoughtfully housed within a classic 'faux-tank' design, boasting an estimated real-world range of 120-150 km on a single charge.",
+        "Set to arrive in premium showrooms later this month, the Flying Flea C6 is expected to carry a price around ₹2.50 Lakh, positioning it as a top-tier lifestyle EV for younger, environmentally-minded riders who appreciate classic aesthetics."
+    ],
+    "date": "2026-04-09",
+    "specs": {
+        "price": "₹2.50 Lakh (Expected)",
+        "mileage": "120 - 150 km per charge",
+        "engine": "Mid-Mounted Electric Motor"
+    },
+    "pros": [
+        "Distinctive retro-electric design complemented by girder forks",
+        "Remarkably lightweight and agile for urban travel",
+        "Superior build quality featuring forged aluminum components",
+        "Instant torque delivery from the electric motor"
+    ],
+    "cons": [
+        "Not intended for extended highway trips",
+        "Higher price point for an urban commuter",
+        "Range is limited compared to high-end electric touring bikes"
+    ],
+    "comparison": null
+},{
     "slug": "yamaha-aerox-e-electric-scooter-2026",
     "type": "bike",
     "title": "Unveiling the Yamaha Aerox E: The Most Dynamic Electric Scooter of 2026",
