@@ -1,4 +1,36 @@
-[
+[{
+"slug": "hero-xtreme-250r-launch-price-specs-2026",
+    "type": "bike",
+    "title": "Hero Xtreme 250R: The Liquid-Cooled Streetfighter Hits the Streets",
+    "image": "/images/bikes/hero-xtreme-250r.png",
+    "image_2": "/images/bikes/hero-xtreme-250r-1.png",
+
+    "description": "Hero MotoCorp is elevating its game with the Xtreme 250R, showcasing a cutting-edge liquid-cooled engine and bold styling. Here’s what you need to know.",
+    "content": [
+      "Hero MotoCorp is making its mark in the premium quarter-liter category with the much-anticipated Xtreme 250R, which promises a significant upgrade in both performance and handling.",
+      "Designed with a new steel trellis frame, the Xtreme 250R boasts a fierce, mass-forward streetfighter aesthetic, featuring an LED projector headlight and striking tank shrouds.",
+      "At its core is the brand-new 250cc liquid-cooled, 4-valve engine, delivering an estimated 30 bhp and 25 Nm of torque, paired with a 6-speed gearbox that includes a slip-and-assist clutch.",
+      "The bike's hardware is impressive, equipped with USD front forks, a rear mono-shock, and dual-channel ABS, complete with a switchable rear ABS mode for those thrill-seeking rides.",
+      "With a projected price of around ₹2.10 Lakh, the Hero Xtreme 250R is poised to offer exceptional value, undercutting competitors like the KTM Duke 250 and Suzuki Gixxer 250."
+    ],
+    "date": "2026-04-10",
+    "specs": {
+      "price": "₹2.10 Lakh (Expected)",
+      "mileage": "30 - 35 kmpl",
+      "engine": "250cc Liquid-Cooled Single Cylinder"
+    },
+    "pros": [
+      "Powerful liquid-cooled engine generating 30 bhp",
+      "Dynamic streetfighter design with a premium trellis frame",
+      "Very competitive pricing in the 250cc market",
+      "Switchable ABS for both track and spirited rides"
+    ],
+    "cons": [
+      "Hero's premium after-sales service is still growing in some tier-2 locations",
+      "The pillion seat appears compact and may lack comfort due to the absence of grab rails"
+    ],
+    "comparison": null
+},
 {
   "slug": "royal-enfield-flying-flea-c6-electric-launch",
     "type": "bike",
