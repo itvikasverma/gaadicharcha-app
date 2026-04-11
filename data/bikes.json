@@ -1,4 +1,38 @@
-[{
+[
+{
+ "slug": "bajaj-dominar-400-gen3-launch-2026",
+    "type": "bike",
+    "title": "2026 Bajaj Dominar 400 Gen-3: Lighter, Faster, and Tech-Loaded",
+  "image": "/images/bikes/dominar-400-00.png",
+    "image_2": "/images/bikes/dominar-400-01.png",
+
+  "description": "Bajaj has given the Dominar 400 an extensive facelift. The 2026 Gen-3 model boasts a significant weight reduction, a vivid color TFT display, and advanced ride-by-wire technology.",
+  "content": [
+    "Bajaj Auto has revamped its flagship power cruiser with the long-awaited updates. The 2026 Dominar 400 Gen-3 has been officially launched, showcasing essential improvements in performance and technology.",
+    "One of the main issues with the previous Dominar was its hefty 193 kg kerb weight. Now, Bajaj has successfully cut down 8 kg by integrating lighter alloy wheels, a re-engineered subframe, and a new aluminum swingarm.",
+    "Although the 373cc liquid-cooled engine remains untouched, it now incorporates Ride-by-Wire technology, introducing three riding modes (Urban, Rain, and Sport) that enhance throttle response and safety.",
+    "The old split-screen display has been upgraded to a stunning 5-inch full-color TFT screen featuring turn-by-turn Bluetooth navigation and call management functionalities.",
+    "With a price tag of ₹2.45 Lakh, the new and improved Dominar 400 Gen-3 is poised to reclaim its status as the ultimate long-distance touring bike that offers great value for money."
+  ],
+  "date": "2026-04-11",
+  "specs": {
+    "price": "₹2.45 Lakh (Ex-Showroom)",
+    "mileage": "28 - 30 kmpl",
+    "engine": "373cc Liquid-Cooled Single Cylinder"
+  },
+  "pros": [
+    "Notable 8 kg weight reduction enhances low-speed maneuverability",
+    "New Ride-by-Wire throttle and riding modes improve safety",
+    "Outstanding value-for-money with a strong power-to-price ratio",
+    "Full-color TFT display meets modern standards"
+  ],
+  "cons": [
+    "Design closely mirrors previous generations",
+    "Fuel tank capacity (13L) may be insufficient for dedicated touring"
+  ],
+  "comparison": null
+},
+  {
 "slug": "hero-xtreme-250r-launch-price-specs-2026",
     "type": "bike",
     "title": "Hero Xtreme 250R: The Liquid-Cooled Streetfighter Hits the Streets",

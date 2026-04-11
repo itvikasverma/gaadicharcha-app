@@ -1,4 +1,35 @@
 [{
+    "slug": "maruti-suzuki-evitara-launch-date-price-2026",
+    "type": "car",
+    "title": "Maruti Suzuki eVitara: The Game-Changing Electric SUV Arriving Next Month",
+    "image": "/images/cars/maruti-suzuki-evitara-2026-Photoroom.png",
+    "description": "India's leading car manufacturer is stepping into the electric vehicle market! Here’s everything you need to know about the Maruti Suzuki eVitara, its battery options, range, and anticipated pricing.",
+    "content": [
+      "The anticipation is nearly over for Maruti Suzuki's inaugural all-electric offering. The production version of the eVX concept, now called the eVitara, is slated to arrive in Indian dealerships come May 2026.",
+      "Developed on a specialized EV skateboard platform in partnership with Toyota, the eVitara features an extended wheelbase that positions the wheels at the extremities, optimizing cabin space.",
+      "Buyers can choose between two battery packs—a 48 kWh and a more substantial 60 kWh version—promising a real-world range of up to 500 km on a single charge.",
+      "Inside, the eVitara is set to bring a significant technological upgrade for Maruti, showcasing a dual-screen floating display, a rotary drive selector, and a sleek, organized dashboard layout.",
+      "With a projected starting price of ₹15 Lakh, it aims to pose a strong challenge to rivals such as the Tata Curvv EV, MG ZS EV, and the forthcoming Hyundai Creta EV."
+    ],
+    "date": "2026-04-11",
+    "specs": {
+      "price": "₹15.00 Lakh – ₹20.00 Lakh (Expected)",
+      "mileage": "400 - 500 km (Claimed Range)",
+      "engine": "Single Motor 2WD / Dual Motor AWD"
+    },
+    "pros": [
+      "Unmatched service network and reliability from Maruti Suzuki",
+      "Specialized EV platform for enhanced cabin space",
+      "Top trim expected to offer segment-first AWD capability",
+      "Highly competitive starting price anticipated"
+    ],
+    "cons": [
+      "Late entry into a fiercely competitive mid-size EV market",
+      "Top-of-the-line AWD variant may exceed ₹22 Lakh"
+    ],
+    "comparison": null
+},
+  {
 "slug": "kia-syros-compact-suv-india-launch-details",
     "type": "car",
     "title": "Kia Syros: The Boxy Compact SUV Ready to Disrupt the Indian Market",
