@@ -1,5 +1,6 @@
 import "./globals.css";
 import type { Metadata } from "next";
+import Link from "next/link";
 import TopNav from "../components/TopNav";
 import {
   DEFAULT_DESCRIPTION,
@@ -66,12 +67,39 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2749037122832439"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="bg-[#f6f1e6] text-neutral-900">
         <TopNav />
         <main className="mx-auto w-full max-w-6xl px-6 py-10">{children}</main>
         <footer className="border-t border-neutral-200 bg-[#fff7ea]">
-          <div className="mx-auto w-full max-w-6xl px-6 py-10 text-sm text-neutral-600">
-            Automotive content by GaadiCharcha
+          <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-6 py-10 text-sm text-neutral-600 md:flex-row md:items-center md:justify-between">
+            <p>Automotive content by GaadiCharcha</p>
+            <nav className="flex flex-wrap gap-4 text-xs font-semibold uppercase tracking-widest text-neutral-700">
+              <Link className="transition hover:text-[#2c6f6a]" href="/about-us">
+                About Us
+              </Link>
+              <Link className="transition hover:text-[#2c6f6a]" href="/contact-us">
+                Contact Us
+              </Link>
+              <Link
+                className="transition hover:text-[#2c6f6a]"
+                href="/privacy-policy"
+              >
+                Privacy Policy
+              </Link>
+              <Link
+                className="transition hover:text-[#2c6f6a]"
+                href="/terms-and-conditions"
+              >
+                Terms & Conditions
+              </Link>
+            </nav>
           </div>
         </footer>
       </body>
