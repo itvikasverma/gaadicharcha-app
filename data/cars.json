@@ -1,4 +1,37 @@
-[{
+[
+{
+    "slug": "honda-elevate-hybrid-ehev-2026-launch",
+    "type": "car",
+    "title": "Honda Elevate e:HEV Hybrid: The Ultimate SUV Rival Arrives This May",
+    "image": "/images/cars/honda-elevate-hybrid-2026.png",
+    "image_2": "/images/cars/honda-elevate-hybrid-2026-1.png",
+
+    "description": "Honda is set to introduce its acclaimed hybrid technology to the Elevate SUV, promising impressive mileage, competitive pricing, and innovative tech features.",
+    "content": [
+      "After much anticipation, Honda Cars India has confirmed that the Elevate e:HEV (Strong Hybrid) will officially launch in late May 2026.",
+      "This hybrid variant will stand out visually, equipped with blue-accented Honda badges, a revamped front grille, and unique 17-inch aerodynamic alloy wheels.",
+      "The standout feature lies under the hood. It utilizes the reliable 1.5-litre Atkinson cycle strong hybrid powertrain adapted from the City e:HEV, effortlessly transitioning between electric-only, hybrid, and traditional engine drive modes.",
+      "This configuration promises industry-leading fuel efficiency, boasting an anticipated real-world mileage exceeding 25 kmpl, making it a direct competitor to the Maruti Suzuki Grand Vitara and Toyota Hyryder hybrids.",
+      "The interior boasts a notable technology upgrade, featuring a fully digital instrument cluster, an electronic parking brake with auto-hold functionality, and an enhanced Honda Sensing (ADAS) suite."
+    ],
+    "date": "2026-04-12",
+    "specs": {
+      "price": "₹17.50 Lakh – ₹20.50 Lakh (Expected)",
+      "mileage": "25 - 27 kmpl (Claimed)",
+      "engine": "1.5L Atkinson Cycle + Dual Electric Motors"
+    },
+    "pros": [
+      "Outstanding fuel efficiency for a mid-size SUV",
+      "Smooth and sophisticated hybrid driving experience",
+      "Roomy and functional cabin with excellent visibility",
+      "Honda Sensing ADAS suite ensures superior safety"
+    ],
+    "cons": [
+      "Slight reduction in boot space due to battery pack placement",
+      "Higher expected entry price compared to standard petrol versions"
+    ],
+    "comparison": null
+},{
     "slug": "maruti-suzuki-evitara-launch-date-price-2026",
     "type": "car",
     "title": "Maruti Suzuki eVitara: The Game-Changing Electric SUV Arriving Next Month",

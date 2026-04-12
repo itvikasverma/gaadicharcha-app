@@ -1,5 +1,36 @@
 [
 {
+    "slug": "ather-450-apex-gen-2-electric-scooter",
+    "type": "bike",
+    "title": "Ather 450 Apex Gen 2: Unveiling the 110kmph Electric Marvel",
+    "image": "/images/bikes/ather-450-apex-gen2.png",
+    "description": "Ather Energy continues to redefine electric performance with the launch of the new 450 Apex Gen 2, boasting an enhanced top speed, Warp+ mode, and an eye-catching transparent design.",
+    "content": [
+        "Ather Energy has officially unveiled the Gen 2 iteration of its flagship scooter, the 450 Apex, delivering even more thrilling acceleration and features tailored for track enthusiasts.",
+        "This latest model elevates the standard with a powerful 7.5 kW peak power motor, achieving a breathtaking 0-40 km/h in just 2.7 seconds and reaching a new maximum speed of 110 km/h.",
+        "The popular 'Warp+' mode has undergone significant recalibration for a more intense throttle response, while the new 'Magic Twist' regenerative braking function provides smooth operation even in heavy traffic.",
+        "Visually, Ather has enhanced the transparent paneling. The rear side panels now allow for a clearer glimpse of the vibrant orange aluminum chassis, paired with newly designed aerodynamic wheels.",
+        "Set to be priced around ₹1.75 Lakh, the 450 Apex Gen 2 is poised to be the ultimate choice for those seeking top-tier electric performance."
+    ],
+    "date": "2026-04-12",
+    "specs": {
+        "price": "₹1.75 Lakh (Ex-Showroom)",
+        "mileage": "115 km (Real-world SmartEco)",
+        "engine": "7.5 kW PMSM Electric Motor"
+    },
+    "pros": [
+        "Unmatched acceleration and top speed within its category",
+        "Eye-catching transparent design features and high-quality paint finish",
+        "Magic Twist throttle simplifies one-handed driving in urban settings",
+        "Exceptional dashboard UI and seamless navigation integration"
+    ],
+    "cons": [
+        "Premium pricing compared to the standard Ather 450X",
+        "Stiffer suspension setup favors track performance over city comfort"
+    ],
+    "comparison": null
+},
+{
  "slug": "bajaj-dominar-400-gen3-launch-2026",
     "type": "bike",
     "title": "2026 Bajaj Dominar 400 Gen-3: Lighter, Faster, and Tech-Loaded",
