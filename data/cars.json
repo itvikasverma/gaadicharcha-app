@@ -1,4 +1,34 @@
-[
+[{
+   "slug": "tata-harrier-ev-awd-launch-india-2026",
+    "type": "car",
+    "title": "Tata Harrier EV AWD: The Ultimate Electric SUV Arrives Next Month",
+    "image": "/images/cars/tata-harrier-ev-2026.png",
+    "description": "Tata Motors is set to debut the Harrier EV this May. Boasting dual-motor AWD, over 500 km of range, and cutting-edge V2L technology, this is the revolutionary SUV we've all been anticipating.",
+    "content": [
+        "The electric SUV scene is on the brink of a major transformation. Tata Motors has officially announced that the eagerly awaited Harrier EV will arrive in Indian dealerships by late May 2026.",
+        "Built on Tata’s advanced Acti.ev platform, the Harrier EV keeps the bold and muscular presence of its diesel version, while introducing modern elements such as a closed front grille, streamlined alloy wheels, and full-width LED light strips at both ends.",
+        "A key highlight is the launch of a dual-motor All-Wheel Drive (AWD) system, marking it as Tata's first electric vehicle with authentic off-road capabilities. The sizable 60+ kWh battery is projected to provide a real-world range comfortably exceeding 450 km.",
+        "Inside, features reach new heights with a state-of-the-art 12.3-inch infotainment display, the Arcade.ev app suite, a panoramic sunroof, and Vehicle-to-Load (V2L) technology, enabling you to power external devices directly from the vehicle.",
+        "With a starting price estimated around ₹24 Lakh, the Harrier EV is poised to significantly challenge luxury electric SUVs while competing against models like the Mahindra XUV.e8 and BYD Atto 3."
+    ],
+    "date": "2026-04-13",
+    "specs": {
+        "price": "₹24.00 Lakh – ₹29.00 Lakh (Expected)",
+        "mileage": "450 - 500 km (Real-world estimate)",
+        "engine": "Dual Motor AWD / Single Motor FWD"
+    },
+    "pros": [
+        "True AWD capability makes it an adventurous electric SUV",
+        "Spacious interior and commanding road presence",
+        "V2L (Vehicle-to-Load) and V2V (Vehicle-to-Vehicle) charging functionalities",
+        "Enhanced Level 2 ADAS suite standard on higher trims"
+    ],
+    "cons": [
+        "The hefty battery pack will notably increase the overall weight",
+        "The anticipated high price for top-spec variants could rival entry-level luxury EVs"
+    ],
+    "comparison": null
+},
 {
     "slug": "honda-elevate-hybrid-ehev-2026-launch",
     "type": "car",
