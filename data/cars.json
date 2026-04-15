@@ -1,4 +1,34 @@
 [{
+    "slug": "mg-majestor-launch-india-2026",
+    "type": "car",
+    "title": "MG Majestor: The New Flagship SUV King Arrives on April",
+    "image": "/images/cars/mgbanner-img-001.png",
+    "description": "MG is unveiling its most luxurious SUV yet! The Majestor is ready to hit the market next week, aiming to take on the Fortuner with its 215hp twin-turbo diesel engine and exceptional luxury.",
+    "content": [
+      "The anticipation for MG's latest flagship model is nearly at an end. On April 20, 2026, the MG Majestor will officially take the position of MG's premium ICE vehicle in India, superseding the Gloster.",
+      "This isn't merely a refreshed design; it's a complete overhaul. The Majestor boasts a striking 'Matrix-style' front grille, 19-inch alloy wheels, and a revamped rear featuring connected LED tail-lights that make a bold statement on the road.",
+      "Under the hood, this SUV is equipped with a robust 2.0-litre twin-turbo diesel engine, delivering 215hp and 478Nm of torque. It comes with a ZF 8-speed automatic transmission and an impressive 4x4 system known as 'M-Hub,' which offers 10 selectable terrain modes.",
+      "Inside the cabin, you’ll discover dual 12.3-inch displays, a top-notch 12-speaker JBL sound system, and seats designed for massage therapy. Safety features are outstanding with Level 2 ADAS, plus a remarkable 810mm water-wading capability for those who venture off the beaten path.",
+      "With pre-bookings starting at ₹41,000, the Majestor is predicted to retail around ₹40 Lakh, positioning it as a highly appealing, tech-laden rival to the Toyota Fortuner Legender."
+    ],
+    "date": "2026-04-15",
+    "specs": {
+      "price": "₹40.00 Lakh – ₹44.00 Lakh (Expected)",
+      "mileage": "12 - 14 kmpl",
+      "engine": "2.0L Twin-Turbo Diesel (215 hp)"
+    },
+    "pros": [
+      "Advanced technology and features surpassing those of the Fortuner",
+      "Genuine 4x4 components with triple differential locks",
+      "Impressive water-wading capacity (810mm)",
+      "Exclusive 5-year warranty package for the first 3,000 bookings"
+    ],
+    "cons": [
+      "Larger size may pose challenges in navigating through congested city traffic",
+      "Resale value generally lags behind competitors from Toyota"
+    ],
+    "comparison": null
+},{
    "slug": "tata-harrier-ev-awd-launch-india-2026",
     "type": "car",
     "title": "Tata Harrier EV AWD: The Ultimate Electric SUV Arrives Next Month",
