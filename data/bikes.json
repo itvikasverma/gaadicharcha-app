@@ -1,5 +1,39 @@
 [
 {
+  "slug": "tvs-apache-rtr-310-2026-refresh",
+  "type": "bike",
+  "title": "TVS Apache RTR 310 2026: Embracing Technology, Elevating Excitement",
+  "image": "/images/bikes/apache-rtr-310 (1).png",
+  "image_2": "/images/bikes/apache-rtr-310 (2).png",
+
+  "description": "TVS introduces enhancements to the Apache RTR 310, incorporating new riding modes, upgraded electronics, and enhanced ride quality.",
+  "content": [
+    "For 2026, TVS has revamped its premier naked bike, the Apache RTR 310, integrating cutting-edge technology aimed at riders.",
+    "This model boasts updated riding modes, cornering ABS, traction control, and cruise control, optimizing both safety and performance.",
+    "The design exudes aggression with jagged tank shrouds, striking LED lights, and a dynamic riding posture.",
+    "Powered by a 312cc engine, it ensures robust performance with around 34 hp, offering seamless power delivery.",
+    "Thanks to refined suspension tuning, the 2026 version guarantees a comfortable ride whether in the city or on the highway."
+  ],
+  "date": "2026-04-18",
+  "specs": {
+    "price": "₹2.50 Lakh (Ex-Showroom)",
+    "mileage": "30 - 35 kmpl",
+    "engine": "312cc Liquid-Cooled Engine"
+  },
+  "pros": [
+    "Equipped with state-of-the-art electronics",
+    "Sporty aesthetics and exceptional performance",
+    "Comfortable for everyday commutes",
+    "Excellent value for the price"
+  ],
+  "cons": [
+    "Vibrations may occur at higher RPMs",
+    "Service network isn't quite as extensive as rivals",
+    "Price is on the higher side for its segment"
+  ],
+  "comparison": null
+},
+{
     "slug": "ather-450-apex-gen-2-electric-scooter",
     "type": "bike",
     "title": "Ather 450 Apex Gen 2: Unveiling the 110kmph Electric Marvel",

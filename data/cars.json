@@ -1,4 +1,36 @@
-[{
+[
+{
+  "slug": "tata-curvv-ev-launch-india-2026",
+  "type": "car",
+  "title": "Tata Curvv EV: The Most Awaited Coupe SUV Launch of 2026",
+  "image": "/images/cars/tata-curvv-ev.png",
+  "description": "Tata Motors is poised to shake up the electric vehicle market with its innovative Curvv EV, showcasing coupe aesthetics, an impressive range, and cutting-edge technology.",
+  "content": [
+    "Tata Motors is preparing to unveil its most fashionable electric SUV to date, the Curvv EV, in India in 2026.",
+    "The Curvv is distinctive with its coupe SUV silhouette, characterized by a sleek roofline, wide LED light strips, and a strikingly modern design.",
+    "Built on Tata’s Gen 2 EV platform, it is anticipated to achieve a driving range exceeding 500 km on a single charge.",
+    "The interior will boast a sleek dashboard, a sizable touchscreen infotainment system, and integrated connected car capabilities.",
+    "The Curvv EV is expected to feature fast-charging capabilities along with advanced safety features like ADAS."
+  ],
+  "date": "2026-04-18",
+  "specs": {
+    "price": "₹20.00 Lakh – ₹25.00 Lakh (Expected)",
+    "mileage": "500+ km range",
+    "engine": "Electric Motor (Gen 2 EV Platform)"
+  },
+  "pros": [
+    "Stylish coupe SUV design",
+    "Extensive driving range",
+    "State-of-the-art EV platform from Tata",
+    "Sophisticated connected technology and ADAS"
+  ],
+  "cons": [
+    "Charging infrastructure is currently developing",
+    "Anticipated higher pricing",
+    "New platform’s reliability is still to be validated"
+  ],
+  "comparison": null
+},{
     "slug": "mg-majestor-launch-india-2026",
     "type": "car",
     "title": "MG Majestor: The New Flagship SUV King Arrives on April",

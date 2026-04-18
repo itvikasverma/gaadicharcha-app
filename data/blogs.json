@@ -1,4 +1,50 @@
-[{
+[
+{
+   "slug": "petrol-vs-electric-cars-india-2026",
+  "type": "blog",
+  "title": "Petrol vs Electric Cars in 2026: What Should You Choose?",
+  "image": "/images/blogs/petrol-vs-ev.png",
+  "description": "Struggling to decide between petrol and electric cars? Check out this practical 2026 guide tailored for Indian buyers.",
+  "tags": [
+    "electric cars india",
+    "petrol vs ev",
+    "car buying guide",
+    "ev charging india",
+    "future of cars"
+  ],
+  "date": "2026-04-18",
+  "sections": [
+    {
+      "heading": "The Key Dilemma in 2026",
+      "body": [
+        "In India, car buyers are facing a tough choice: stick with petrol vehicles or transition to electric options.",
+        "As fuel prices climb and government incentives roll out, EVs are making headway, yet petrol cars continue to lead the market."
+      ]
+    },
+    {
+      "heading": "Why Petrol Cars Remain a Viable Choice",
+      "body": [
+        "Petrol cars are simple to maintain, readily available, and offer the convenience of an extensive network of fuel stations.",
+        "They are especially suited for long trips where charging infrastructure might be a concern."
+      ]
+    },
+    {
+      "heading": "Why EVs Represent the Future",
+      "body": [
+        "Electric cars come with notably lower operating costs and are much better for the environment.",
+        "With advancements in charging infrastructures and battery technology, EVs are becoming more practical for everyday use."
+      ]
+    },
+    {
+      "heading": "The Bottom Line",
+      "body": [
+        "For city driving, EVs come out ahead as a wise investment for the long haul.",
+        "However, if you're a frequent highway traveler, petrol cars still offer unmatched flexibility."
+      ]
+    }
+  ],
+  "comparison": null
+},{
   
 "slug": "panoramic-sunroof-vs-ventilated-seats-india",
     "type": "blog",
