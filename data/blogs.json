@@ -1,52 +1,91 @@
 [
-{
-   "slug": "petrol-vs-electric-cars-india-2026",
-  "type": "blog",
-  "title": "Petrol vs Electric Cars in 2026: What Should You Choose?",
-  "image": "/images/blogs/petrol-vs-ev.png",
-  "description": "Struggling to decide between petrol and electric cars? Check out this practical 2026 guide tailored for Indian buyers.",
-  "tags": [
-    "electric cars india",
-    "petrol vs ev",
-    "car buying guide",
-    "ev charging india",
-    "future of cars"
-  ],
-  "date": "2026-04-18",
-  "sections": [
-    {
-      "heading": "The Key Dilemma in 2026",
-      "body": [
-        "In India, car buyers are facing a tough choice: stick with petrol vehicles or transition to electric options.",
-        "As fuel prices climb and government incentives roll out, EVs are making headway, yet petrol cars continue to lead the market."
-      ]
-    },
-    {
-      "heading": "Why Petrol Cars Remain a Viable Choice",
-      "body": [
-        "Petrol cars are simple to maintain, readily available, and offer the convenience of an extensive network of fuel stations.",
-        "They are especially suited for long trips where charging infrastructure might be a concern."
-      ]
-    },
-    {
-      "heading": "Why EVs Represent the Future",
-      "body": [
-        "Electric cars come with notably lower operating costs and are much better for the environment.",
-        "With advancements in charging infrastructures and battery technology, EVs are becoming more practical for everyday use."
-      ]
-    },
-    {
-      "heading": "The Bottom Line",
-      "body": [
-        "For city driving, EVs come out ahead as a wise investment for the long haul.",
-        "However, if you're a frequent highway traveler, petrol cars still offer unmatched flexibility."
-      ]
-    }
-  ],
-  "comparison": null
-},{
-  
-"slug": "panoramic-sunroof-vs-ventilated-seats-india",
+  {
+    "slug": "top-car-launches-india-may-2026",
+    "type": "blog",
+    "title": "May 2026 Trending: The Return of an Icon and the Battle of Luxury SUVs",
+    "image": "/images/cars/tata-sierra-ev-2026.png",
+    "description": "May 2026 marks an exciting time for the Indian automotive industry, with the revival of the iconic Sierra name and the introduction of MG's flagship model. Here's what you need to know about the cars making waves this month.",
+    "tags": [
+      "may 2026 trending cars",
+      "tata sierra ev",
+      "mg majestor launch",
+      "honda zr-v india",
+      "toyota ebella ev"
+    ],
+    "date": "2026-05-03",
+    "sections": [
+      {
+        "heading": "Featured Car: Tata Sierra EV",
+        "body": [
+          "Leading the buzz this month is the Tata Sierra EV, set to launch on May 19. This vehicle is more than just a car; it’s a nostalgic icon reborn for the electric era.",
+          "With its classic curved rear glass and a sturdy 4x4-inspired design, the Sierra EV sits on the Acti.ev platform and aims for an impressive range of over 500 km, positioning itself at the forefront of the mid-size EV market."
+        ]
+      },
+      {
+        "heading": "Luxury Giants: MG Majestor & Honda ZR-V",
+        "body": [
+          "In the realm of full-size SUVs, MG is making waves with the Majestor, a tech-rich competitor to the Toyota Fortuner. Featuring a 2.0L twin-turbo diesel engine and luxurious massaging seats, it promises both presence and comfort for discerning buyers.",
+          "On another note, Honda is re-entering the premium segment with the ZR-V on May 22. This hybrid SUV boasts a sophisticated 2.0L i-MMD powertrain, delivering a driving experience that surpasses typical diesel offerings."
+        ]
+      },
+      {
+        "heading": "Mainstream EV: Toyota Urban Cruiser Ebella",
+        "body": [
+          "This month, Toyota is also in the spotlight as it prepares to unveil prices for the Ebella. Sharing its architecture with the Maruti eVitara, this model represents Toyota's strategic move into the Indian electric vehicle market.",
+          "With two battery options (49kWh and 61kWh), the Ebella is designed to combine Toyota's renowned reliability with a commitment to zero emissions."
+        ]
+      }
+    ],
+    "comparison": null
+  },
+  {
+    "slug": "petrol-vs-electric-cars-india-2026",
+    "type": "blog",
+    "title": "Petrol vs Electric Cars in 2026: What Should You Choose?",
+    "image": "/images/blogs/petrol-vs-ev.png",
+    "description": "Struggling to decide between petrol and electric cars? Check out this practical 2026 guide tailored for Indian buyers.",
+    "tags": [
+      "electric cars india",
+      "petrol vs ev",
+      "car buying guide",
+      "ev charging india",
+      "future of cars"
+    ],
+    "date": "2026-04-18",
+    "sections": [
+      {
+        "heading": "The Key Dilemma in 2026",
+        "body": [
+          "In India, car buyers are facing a tough choice: stick with petrol vehicles or transition to electric options.",
+          "As fuel prices climb and government incentives roll out, EVs are making headway, yet petrol cars continue to lead the market."
+        ]
+      },
+      {
+        "heading": "Why Petrol Cars Remain a Viable Choice",
+        "body": [
+          "Petrol cars are simple to maintain, readily available, and offer the convenience of an extensive network of fuel stations.",
+          "They are especially suited for long trips where charging infrastructure might be a concern."
+        ]
+      },
+      {
+        "heading": "Why EVs Represent the Future",
+        "body": [
+          "Electric cars come with notably lower operating costs and are much better for the environment.",
+          "With advancements in charging infrastructures and battery technology, EVs are becoming more practical for everyday use."
+        ]
+      },
+      {
+        "heading": "The Bottom Line",
+        "body": [
+          "For city driving, EVs come out ahead as a wise investment for the long haul.",
+          "However, if you're a frequent highway traveler, petrol cars still offer unmatched flexibility."
+        ]
+      }
+    ],
+    "comparison": null
+  },
+  {
+    "slug": "panoramic-sunroof-vs-ventilated-seats-india",
     "type": "blog",
     "title": "Panoramic Sunroof vs. Ventilated Seats: What Do You Really Need in India?",
     "image": "/images/blogs/sunroof-vs-ventilated-seats.png",
@@ -90,8 +129,8 @@
         ]
       }
     ]
-}
-,{
+  },
+  {
     "slug": "adas-level-2-indian-roads-reality-check-2026",
     "type": "blog",
     "title": "ADAS on Indian Roads: A Lifesaver or Just an Irritation?",
@@ -136,61 +175,62 @@
         ]
       }
     ]
-},
-{
+  },
+  {
     "slug": "diesel-cars-future-india-2026",
     "type": "blog",
     "title": "Is a Diesel Car Purchase Still Wise in 2026?",
     "image": "/images/blogs/diesel-cars-india-2026.png",
     "description": "As the market shifts towards hybrids and EVs, is choosing a diesel car in 2026 a misstep? We explore resale values, operating costs, and DPF challenges.",
     "tags": [
-        "diesel cars india",
-        "future of diesel engines",
-        "hybrid vs diesel",
-        "car buying guide 2026",
-        "bs6 phase 2 diesel"
+      "diesel cars india",
+      "future of diesel engines",
+      "hybrid vs diesel",
+      "car buying guide 2026",
+      "bs6 phase 2 diesel"
     ],
     "date": "2026-04-11",
     "comparison": null,
     "sections": [
-        {
-            "heading": "Declining Diesel Demand",
-            "body": [
-                "Not too long ago, diesel engines powered over half of India's passenger vehicles. Fast forward to April 2026, and the situation has significantly shifted.",
-                "With manufacturers like Maruti Suzuki, Honda, and Skoda-VW completely stepping away from diesel, your choices are now largely confined to heavy SUVs from brands like Mahindra, Tata, Hyundai, and Kia. So, is investing in a diesel vehicle still a wise decision?"
-            ]
-        },
-        {
-            "heading": "Highway Performance Like No Other",
-            "body": [
-                "If you regularly cover more than 2,000 km each month with long highway journeys, diesel still reigns supreme. Its exceptional low-end torque makes overtaking a breeze, and its highway fuel efficiency far surpasses that of petrol engines.",
-                "For larger SUVs such as the Mahindra Scorpio-N, Tata Safari, or Toyota Fortuner, diesel engines remain the most effective choice to manage their substantial weight."
-            ]
-        },
-        {
-            "heading": "City Driving and the DPF Issue",
-            "body": [
-                "Conversely, if your driving primarily involves congested city traffic, opting for a new BS6 Phase-2 diesel car could lead to significant headaches.",
-                "Frequent low-speed driving can block the Diesel Particulate Filter (DPF), and you'll often see warning lights prompting you to take a highway trip to clear the soot, which undermines the convenience of city driving altogether."
-            ]
-        },
-        {
-            "heading": "Resale Concerns and Government Regulations",
-            "body": [
-                "A major concern is the impact of government regulations. With the 10-year ban on diesel vehicles already in effect in Delhi-NCR, it's understandable that buyers in other major cities worry about similar policies being enacted nationwide.",
-                "This apprehension is already causing diesel resale prices to decline noticeably in the used car market when compared to Strong Hybrids."
-            ]
-        },
-        {
-            "heading": "Conclusion",
-            "body": [
-                "Consider buying a diesel ONLY if you are looking at a heavy SUV (like the Safari or XUV700) and expect to spend 70% of your driving on highways.",
-                "For those seeking low running costs for city driving while also making some highway trips, it's best to bypass diesel altogether and invest in a Strong Hybrid or an EV."
-            ]
-        }
+      {
+        "heading": "Declining Diesel Demand",
+        "body": [
+          "Not too long ago, diesel engines powered over half of India's passenger vehicles. Fast forward to April 2026, and the situation has significantly shifted.",
+          "With manufacturers like Maruti Suzuki, Honda, and Skoda-VW completely stepping away from diesel, your choices are now largely confined to heavy SUVs from brands like Mahindra, Tata, Hyundai, and Kia. So, is investing in a diesel vehicle still a wise decision?"
+        ]
+      },
+      {
+        "heading": "Highway Performance Like No Other",
+        "body": [
+          "If you regularly cover more than 2,000 km each month with long highway journeys, diesel still reigns supreme. Its exceptional low-end torque makes overtaking a breeze, and its highway fuel efficiency far surpasses that of petrol engines.",
+          "For larger SUVs such as the Mahindra Scorpio-N, Tata Safari, or Toyota Fortuner, diesel engines remain the most effective choice to manage their substantial weight."
+        ]
+      },
+      {
+        "heading": "City Driving and the DPF Issue",
+        "body": [
+          "Conversely, if your driving primarily involves congested city traffic, opting for a new BS6 Phase-2 diesel car could lead to significant headaches.",
+          "Frequent low-speed driving can block the Diesel Particulate Filter (DPF), and you'll often see warning lights prompting you to take a highway trip to clear the soot, which undermines the convenience of city driving altogether."
+        ]
+      },
+      {
+        "heading": "Resale Concerns and Government Regulations",
+        "body": [
+          "A major concern is the impact of government regulations. With the 10-year ban on diesel vehicles already in effect in Delhi-NCR, it's understandable that buyers in other major cities worry about similar policies being enacted nationwide.",
+          "This apprehension is already causing diesel resale prices to decline noticeably in the used car market when compared to Strong Hybrids."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "body": [
+          "Consider buying a diesel ONLY if you are looking at a heavy SUV (like the Safari or XUV700) and expect to spend 70% of your driving on highways.",
+          "For those seeking low running costs for city driving while also making some highway trips, it's best to bypass diesel altogether and invest in a Strong Hybrid or an EV."
+        ]
+      }
     ]
-},
-{"slug": "electric-vs-cng-cars-india-2026-comparison",
+  },
+  {
+    "slug": "electric-vs-cng-cars-india-2026-comparison",
     "type": "blog",
     "title": "Electric vs CNG in 2026: Which is the Best Option for Your Daily Commute?",
     "image": "/images/blogs/CNG-Car-vs-Electric.png",
@@ -241,13 +281,13 @@
         ]
       }
     ]
-},
-{
+  },
+  {
     "slug": "top-upcoming-cng-suvs-india-2026",
     "type": "blog",
     "title": "Dual-Fuel Dominance: Top Upcoming CNG SUVs in India for 2026",
     "image": "/images/blogs/1. Tata Nexon iCNG AMT.png",
-    "image_2":"/images/blogs/Mahindra XUV 3XO.png",
+    "image_2": "/images/blogs/Mahindra XUV 3XO.png",
     "description": "With fluctuating fuel costs, CNG SUVs are emerging as the prime choice for Indian consumers. Explore the most exciting factory-fitted CNG SUVs set to launch in 2026.",
     "tags": [
       "cng cars india 2026",
@@ -288,95 +328,94 @@
         ]
       }
     ]
-},{
+  },
+  {
     "slug": "ev-battery-care-summer-heat-india-2026",
     "type": "blog",
     "title": "Summer 2026 EV Tips: Safeguarding Your Electric Car Battery from High Temperatures",
     "image": "/images/blogs/slug ev-battery.png",
     "description": "As temperatures rise throughout India this April, here are the top 5 essential strategies to maintain your EV's range and safeguard its battery in intense heat.",
     "tags": [
-        "ev battery care",
-        "electric cars summer tips",
-        "ev range drop",
-        "india auto blog 2026",
-        "thermal management ev"
+      "ev battery care",
+      "electric cars summer tips",
+      "ev range drop",
+      "india auto blog 2026",
+      "thermal management ev"
     ],
     "date": "2026-04-08",
     "comparison": null,
     "sections": [
-        {
-            "heading": "The Summer Dilemma for EVs",
-            "body": [
-                "With April temperatures soaring past 40 degrees in various regions of India, electric vehicle owners are confronting a significant challenge: the heat.",
-                "Elevated temperatures compel your EV's Thermal Management System (TMS) to work harder to maintain battery temperature, which can drain power and noticeably affect your driving range."
-            ]
-        },
-        {
-            "heading": "1. Pre-Condition Your EV While Charging",
-            "body": [
-                "One of the best ways to preserve range is by 'pre-conditioning' your vehicle's cabin. Use the mobile app to activate your car's AC 10-15 minutes before you head out, while it's still charging.",
-                "This allows the cabin to cool using electricity from the grid rather than the battery, ensuring you leave your home with both a full charge and a comfortable interior."
-            ]
-        },
-        {
-            "heading": "2. Avoid Charging to 100% Under Direct Sunlight",
-            "body": [
-                "Lithium-ion batteries do not perform well when left at 100% charge in the sun. If you must park outdoors during the heat of the day, try to limit your charge level to 80% to alleviate stress on the battery.",
-                "Whenever possible, prefer to charge overnight when the temperatures are much cooler."
-            ]
-        },
-        {
-            "heading": "3. Keep an Eye on Your Tire Pressure",
-            "body": [
-                "Heat can cause the air in your tires to expand quickly. Over-inflated tires can reduce grip and cause uneven wear, while under-inflated tires can significantly increase rolling resistance and diminish your range.",
-                "Make it a habit to check your EV's tire pressure system (TPMS) weekly and maintain it at the manufacturer's recommended level for safe summer driving."
-            ]
-        }
+      {
+        "heading": "The Summer Dilemma for EVs",
+        "body": [
+          "With April temperatures soaring past 40 degrees in various regions of India, electric vehicle owners are confronting a significant challenge: the heat.",
+          "Elevated temperatures compel your EV's Thermal Management System (TMS) to work harder to maintain battery temperature, which can drain power and noticeably affect your driving range."
+        ]
+      },
+      {
+        "heading": "1. Pre-Condition Your EV While Charging",
+        "body": [
+          "One of the best ways to preserve range is by 'pre-conditioning' your vehicle's cabin. Use the mobile app to activate your car's AC 10-15 minutes before you head out, while it's still charging.",
+          "This allows the cabin to cool using electricity from the grid rather than the battery, ensuring you leave your home with both a full charge and a comfortable interior."
+        ]
+      },
+      {
+        "heading": "2. Avoid Charging to 100% Under Direct Sunlight",
+        "body": [
+          "Lithium-ion batteries do not perform well when left at 100% charge in the sun. If you must park outdoors during the heat of the day, try to limit your charge level to 80% to alleviate stress on the battery.",
+          "Whenever possible, prefer to charge overnight when the temperatures are much cooler."
+        ]
+      },
+      {
+        "heading": "3. Keep an Eye on Your Tire Pressure",
+        "body": [
+          "Heat can cause the air in your tires to expand quickly. Over-inflated tires can reduce grip and cause uneven wear, while under-inflated tires can significantly increase rolling resistance and diminish your range.",
+          "Make it a habit to check your EV's tire pressure system (TPMS) weekly and maintain it at the manufacturer's recommended level for safe summer driving."
+        ]
+      }
     ]
-},
-{
+  },
+  {
     "slug": "hybrid-cars-revolution-india-2026-trends",
     "type": "blog",
     "title": "The Hybrid Boom: Why Strong Hybrids Are Taking Center Stage in 2026",
     "image": "/images/blogs/HZR-V-VTi-L-side-PGrey-V3.png",
     "image_2": "/images/blogs/Toyota Urban Cruiser Ebella.png",
-
     "description": "While electric vehicles dominate the headlines, strong hybrid cars are steadily growing their presence in the Indian market this year. Explore the reasons behind buyers' preference for hybrids over fully electric options.",
     "tags": [
-        "hybrid cars india 2026",
-        "strong hybrid suv",
-        "maruti suzuki hybrid",
-        "toyota hybrid 2026",
-        "ev vs hybrid india"
+      "hybrid cars india 2026",
+      "strong hybrid suv",
+      "maruti suzuki hybrid",
+      "toyota hybrid 2026",
+      "ev vs hybrid india"
     ],
     "date": "2026-04-07",
     "comparison": null,
     "sections": [
-        {
-            "heading": "Bridging the EV Divide",
-            "body": [
-                "Electric vehicles might hold the key to the future, but as of April 2026, Strong Hybrids are dominating the present market. With buyers experiencing 'range anxiety' on extended highway journeys and facing limited charging options in smaller cities, hybrids are emerging as an ideal compromise.",
-                "Delivering the quiet, powerful drive of an EV in stop-and-go traffic while offering the extended range of a petrol engine on highways, it’s no wonder that Indian consumers are making the switch to hybrids."
-            ]
-        },
-        {
-            "heading": "Fuel Efficiency Champions",
-            "body": [
-                "Fuel economy remains the top priority for Indian buyers. Models like the Maruti Suzuki Grand Vitara and Toyota Urban Cruiser Hyryder consistently achieve real-world mileage exceeding 25 kmpl.",
-                "In 2026, this technology is set to reach more budget-friendly segments. Maruti's upcoming Fronx Hybrid and the next-gen Swift are anticipated to incorporate localized, cost-effective hybrid systems, pushing fuel efficiency beyond the 30 kmpl threshold."
-            ]
-        },
-        {
-            "heading": "The Tax Discussion & Future Perspectives",
-            "body": [
-                "At present, the automotive industry is actively pushing the government for GST cuts on strong hybrids, asserting that they can significantly lower emissions without needing grid support.",
-                "If the GST council adjusts the rates favorably this summer, expect a surge of hybrid models from manufacturers like Honda, Hyundai, and Kia, compelling pure EVs to share the spotlight in the realm of green mobility."
-            ]
-        }
+      {
+        "heading": "Bridging the EV Divide",
+        "body": [
+          "Electric vehicles might hold the key to the future, but as of April 2026, Strong Hybrids are dominating the present market. With buyers experiencing 'range anxiety' on extended highway journeys and facing limited charging options in smaller cities, hybrids are emerging as an ideal compromise.",
+          "Delivering the quiet, powerful drive of an EV in stop-and-go traffic while offering the extended range of a petrol engine on highways, it’s no wonder that Indian consumers are making the switch to hybrids."
+        ]
+      },
+      {
+        "heading": "Fuel Efficiency Champions",
+        "body": [
+          "Fuel economy remains the top priority for Indian buyers. Models like the Maruti Suzuki Grand Vitara and Toyota Urban Cruiser Hyryder consistently achieve real-world mileage exceeding 25 kmpl.",
+          "In 2026, this technology is set to reach more budget-friendly segments. Maruti's upcoming Fronx Hybrid and the next-gen Swift are anticipated to incorporate localized, cost-effective hybrid systems, pushing fuel efficiency beyond the 30 kmpl threshold."
+        ]
+      },
+      {
+        "heading": "The Tax Discussion & Future Perspectives",
+        "body": [
+          "At present, the automotive industry is actively pushing the government for GST cuts on strong hybrids, asserting that they can significantly lower emissions without needing grid support.",
+          "If the GST council adjusts the rates favorably this summer, expect a surge of hybrid models from manufacturers like Honda, Hyundai, and Kia, compelling pure EVs to share the spotlight in the realm of green mobility."
+        ]
+      }
     ]
-}
-,
-{
+  },
+  {
     "slug": "india-auto-market-mid-april-2026-launches",
     "type": "blog",
     "title": "April 2026 Automotive Update: MG Majestor, VinFast VF 7 & Audi News",
@@ -416,61 +455,60 @@
         ]
       }
     ]
-},
-{
-  "slug": "top-safest-suvs-under-20-lakhs-india-2026",
+  },
+  {
+    "slug": "top-safest-suvs-under-20-lakhs-india-2026",
     "type": "blog",
     "title": "Top 5 Safest SUVs Under ₹20 Lakh in India (April 2026 Edition)",
-  "image": "/images/blogs/Mahindra XUV 3XO.png",
-  "image_2": "/images/blogs/skoda-kushaq-facelift.png",
-  "description": "Searching for a dependable family vehicle? Here’s a curated list of the top 5 safest SUVs available under ₹20 lakh in India for 2026, all equipped with 5-star crash ratings and standard ADAS.",
-  "tags": [
-    "safest cars india 2026",
-    "suv under 20 lakh",
-    "bharat ncap 5 star",
-    "adas level 2 suvs",
-    "family car buying guide"
-  ],
-  "date": "2026-04-04",
-  "comparison": null,
-  "sections": [
-    {
-      "heading": "A New Safety Benchmark in 2026",
-      "body": [
-        "In 2026, safety is at the forefront of Indian car buyers’ considerations. With stringent Bharat NCAP standards and government regulations, features once seen as premium—such as 6 airbags and Level 2 ADAS—are now standard in the sub-₹20 lakh category.",
-        "If you’re eyeing a mid-size or compact SUV this month, we’ve crafted the ultimate guide to vehicles providing unparalleled safety for your loved ones."
-      ]
-    },
-    {
-      "heading": "1. Tata Nexon & Curvv",
-      "body": [
-        "Tata Motors is setting the standard in safety. Both the Nexon and the trendy Curvv achieve 5-star ratings from BNCAP.",
-        "With robust high-strength steel designs, standard 6 airbags, and electronic stability control (ESC) available across all models, they exemplify structural resilience under ₹15 Lakh."
-      ]
-    },
-    {
-      "heading": "2. Mahindra XUV 3XO",
-      "body": [
-        "The Mahindra XUV 3XO, an extensively updated version of the XUV300, is a bastion of safety. It not only secures a 5-star safety rating but also brings Level 2 ADAS features into the compact SUV scene.",
-        "Innovations like Automatic Emergency Braking (AEB) and lane-keeping assistance enhance its safety on highways."
-      ]
-    },
-    {
-      "heading": "3. Skoda Kushaq & VW Taigun (2026 Facelifts)",
-      "body": [
-        "These European counterparts, built on the MQB-A0-IN platform, have gained fame for achieving a flawless 5-star rating in both adult and child occupant protection under the revised Global NCAP standards.",
-        "The April 2026 facelifts now offer a 360-degree camera and blind-spot detection as standard features in the top-of-the-line variants."
-      ]
-    }
-  ]
-},
+    "image": "/images/blogs/Mahindra XUV 3XO.png",
+    "image_2": "/images/blogs/skoda-kushaq-facelift.png",
+    "description": "Searching for a dependable family vehicle? Here’s a curated list of the top 5 safest SUVs available under ₹20 lakh in India for 2026, all equipped with 5-star crash ratings and standard ADAS.",
+    "tags": [
+      "safest cars india 2026",
+      "suv under 20 lakh",
+      "bharat ncap 5 star",
+      "adas level 2 suvs",
+      "family car buying guide"
+    ],
+    "date": "2026-04-04",
+    "comparison": null,
+    "sections": [
+      {
+        "heading": "A New Safety Benchmark in 2026",
+        "body": [
+          "In 2026, safety is at the forefront of Indian car buyers’ considerations. With stringent Bharat NCAP standards and government regulations, features once seen as premium—such as 6 airbags and Level 2 ADAS—are now standard in the sub-₹20 lakh category.",
+          "If you’re eyeing a mid-size or compact SUV this month, we’ve crafted the ultimate guide to vehicles providing unparalleled safety for your loved ones."
+        ]
+      },
+      {
+        "heading": "1. Tata Nexon & Curvv",
+        "body": [
+          "Tata Motors is setting the standard in safety. Both the Nexon and the trendy Curvv achieve 5-star ratings from BNCAP.",
+          "With robust high-strength steel designs, standard 6 airbags, and electronic stability control (ESC) available across all models, they exemplify structural resilience under ₹15 Lakh."
+        ]
+      },
+      {
+        "heading": "2. Mahindra XUV 3XO",
+        "body": [
+          "The Mahindra XUV 3XO, an extensively updated version of the XUV300, is a bastion of safety. It not only secures a 5-star safety rating but also brings Level 2 ADAS features into the compact SUV scene.",
+          "Innovations like Automatic Emergency Braking (AEB) and lane-keeping assistance enhance its safety on highways."
+        ]
+      },
+      {
+        "heading": "3. Skoda Kushaq & VW Taigun (2026 Facelifts)",
+        "body": [
+          "These European counterparts, built on the MQB-A0-IN platform, have gained fame for achieving a flawless 5-star rating in both adult and child occupant protection under the revised Global NCAP standards.",
+          "The April 2026 facelifts now offer a 360-degree camera and blind-spot detection as standard features in the top-of-the-line variants."
+        ]
+      }
+    ]
+  },
   {
     "slug": "hyundai-boulder-concept-suv-new-york-2026",
     "type": "blog",
     "title": "Hyundai Boulder Concept Unveiled in NY: A Sneak Peek at Its Off-Road Potential",
     "image": "/images/blogs/hyundai-boulder-concept-fron.png",
     "image_2": "/images/blogs/hyundai-boulder-concept.png",
-
     "description": "Hyundai showcased the rugged Boulder Concept SUV at the 2026 New York Auto Show, offering a glimpse of a new body-on-frame pickup truck designed for aggressive off-road adventures.",
     "tags": [
       "hyundai boulder concept",
@@ -509,7 +547,8 @@
       }
     ]
   },
-  {"slug": "toyota-fj-cruiser-legacy-and-baby-land-cruiser-2026",
+  {
+    "slug": "toyota-fj-cruiser-legacy-and-baby-land-cruiser-2026",
     "type": "blog",
     "title": "The Toyota FJ Cruiser: Why This Off-Road Legend Still Dominates in 2026",
     "image": "/images/blogs/fj-cruiser-front-view.png",
@@ -558,15 +597,20 @@
         ]
       }
     ]
-  }
-,
+  },
   {
     "slug": "india-auto-launches-april-2026-updates",
     "type": "blog",
     "title": "April 2026 Auto Roundup: Triumph 350, Taigun Update, and RE Electric",
     "image": "/images/blogs/flying flea c6 price.png",
     "description": "April highlights the release of 350cc motorcycles and long-range electric vehicles. Check out the latest on the Triumph Speed 350, VW Taigun update, and Royal Enfield's Flying Flea.",
-    "tags": ["april 2026 bike launches", "triumph 350cc gst", "vw taigun facelift 2026", "flying flea c6 price", "upcoming cars india"],
+    "tags": [
+      "april 2026 bike launches",
+      "triumph 350cc gst",
+      "vw taigun facelift 2026",
+      "flying flea c6 price",
+      "upcoming cars india"
+    ],
     "date": "2026-04-02",
     "sections": [
       {
@@ -593,8 +637,7 @@
         ]
       }
     ]
-  }
-,
+  },
   {
     "slug": "mahindra-sales-march-2026",
     "type": "blog",
@@ -637,121 +680,120 @@
         ]
       }
     ]
-  }
-,
-{
-  "slug": "auto-news-india-march-2026",
-  "type": "blog",
-  "title": "Today’s Auto News India – Cars & Bikes Update",
-  "image": "/images/blogs/nexonev.png",
-  "description": "Latest car and bike news in India for March . Get updates on EV subsidies, SUV trends, and new vehicle launches.",
-  "tags": [
-    "auto news india",
-    "car news 2026",
-    "bike news today",
-    "ev news india",
-    "latest automobile updates"
-  ],
-  "date": "2026-03-31",
-  "comparison": null,
-  "sections": [
-    {
-      "heading": " Today’s Top Auto News",
-      "body": [
-        "India’s automobile industry is growing fast with new launches and EV trends.",
-        "Here are today’s top updates:"
-      ]
-    },
-    {
-      "heading": " Key Highlights",
-      "body": [
-        "EV subsidy extended till July 2026, making electric vehicles more affordable.",
-        "SUV demand is increasing rapidly in the Indian market.",
-        "Mid-range bikes continue to dominate the two-wheeler segment.",
-        "New car and bike launches are happening every week."
-      ]
-    },
-    {
-      "heading": " Market Trend",
-      "body": [
-        "Overall, India is shifting towards electric vehicles and feature-loaded cars.",
-        "Automakers are focusing more on safety, technology, and performance in 2026."
-      ]
-    }
-  ]
-},
+  },
   {
-  "slug": "kia-seltos-5-star-bharat-ncap-2026",
-  "type": "blog",
-  "title": "Kia Seltos Gets 5-Star Bharat NCAP Rating – Full Safety Details 2026",
-  "image": "/images/blogs/kia-sel.png",
-  "description": "Kia Seltos secures a 5-star Bharat NCAP safety rating in 2026. Check crash test scores, safety features, and why it is now one of the safest SUVs in India.",
-  "tags": [
-    "Kia Seltos safety",
-    "Bharat NCAP rating",
-    "car safety India",
-    "SUV safety 2026",
-    "Kia Seltos 2026",
-    "NCAP crash test India",
-    "safe SUVs India"
-  ],
-  "date": "2026-03-30",
-  "comparison": null,
-  "sections": [
-    {
-      "heading": "Overview",
-      "body": [
-        "The Kia Seltos has achieved a major milestone by securing a 5-star safety rating in the Bharat NCAP crash tests 2026.",
-        "This marks a significant improvement in safety for one of India's most popular mid-size SUVs.",
-        "With strong crash performance and advanced safety features, the Seltos is now among the safest cars in its segment."
-      ]
-    },
-    {
-      "heading": "Bharat NCAP Rating Breakdown",
-      "body": [
-        "Adult Occupant Protection (AOP): 31.70 out of 32.",
-        "Child Occupant Protection (COP): 45.00 out of 49.",
-        "Overall rating: 5 stars.",
-        "These scores place the Seltos among the top-rated SUVs in India for safety."
-      ]
-    },
-    {
-      "heading": "Crash Test Performance",
-      "body": [
-        "Front collision rating: 15.70 out of 16.",
-"Side impact rating: 16 out of 16 with optimal safety.",
-"Outstanding results in side pole impact evaluations.",
-"Solid body design and robust cabin strength guarantee passenger security."
-      ]
-    },
-    {
-      "heading": "Key Safety Features",
-      "body": [
-        "6 airbags provided as standard across variants.",
-        "Electronic Stability Control (ESC) and Vehicle Stability Management.",
-        "ISOFIX child seat mounts for better child safety.",
-        "All-wheel disc brakes and seatbelt reminders for all passengers.",
-        "Advanced Driver Assistance Systems (ADAS) in higher variants."
-      ]
-    },
-    {
-      "heading": "Why This Matters",
-      "body": [
-        "The Kia Seltos has achieved a major milestone by securing a 5-star safety rating in the Bharat NCAP crash tests 2026.",
-        "This marks a significant improvement in safety for one of India's most popular mid-size SUVs.",
-        "With strong crash performance and advanced safety features, the Seltos is now among the safest cars in its segment."
-      ]
-    },
-    {
-      "heading": "Conclusion",
-      "body": [
-        "The Kia Seltos has achieved a major milestone by securing a 5-star safety rating in the Bharat NCAP crash tests 2026.",
-        "This marks a significant improvement in safety for one of India's most popular mid-size SUVs.",
-        "With strong crash performance and advanced safety features, the Seltos is now among the safest cars in its segment."
-      ]
-    }
-  ]
-},
+    "slug": "auto-news-india-march-2026",
+    "type": "blog",
+    "title": "Today’s Auto News India – Cars & Bikes Update",
+    "image": "/images/blogs/nexonev.png",
+    "description": "Latest car and bike news in India for March . Get updates on EV subsidies, SUV trends, and new vehicle launches.",
+    "tags": [
+      "auto news india",
+      "car news 2026",
+      "bike news today",
+      "ev news india",
+      "latest automobile updates"
+    ],
+    "date": "2026-03-31",
+    "comparison": null,
+    "sections": [
+      {
+        "heading": " Today’s Top Auto News",
+        "body": [
+          "India’s automobile industry is growing fast with new launches and EV trends.",
+          "Here are today’s top updates:"
+        ]
+      },
+      {
+        "heading": " Key Highlights",
+        "body": [
+          "EV subsidy extended till July 2026, making electric vehicles more affordable.",
+          "SUV demand is increasing rapidly in the Indian market.",
+          "Mid-range bikes continue to dominate the two-wheeler segment.",
+          "New car and bike launches are happening every week."
+        ]
+      },
+      {
+        "heading": " Market Trend",
+        "body": [
+          "Overall, India is shifting towards electric vehicles and feature-loaded cars.",
+          "Automakers are focusing more on safety, technology, and performance in 2026."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kia-seltos-5-star-bharat-ncap-2026",
+    "type": "blog",
+    "title": "Kia Seltos Gets 5-Star Bharat NCAP Rating – Full Safety Details 2026",
+    "image": "/images/blogs/kia-sel.png",
+    "description": "Kia Seltos secures a 5-star Bharat NCAP safety rating in 2026. Check crash test scores, safety features, and why it is now one of the safest SUVs in India.",
+    "tags": [
+      "Kia Seltos safety",
+      "Bharat NCAP rating",
+      "car safety India",
+      "SUV safety 2026",
+      "Kia Seltos 2026",
+      "NCAP crash test India",
+      "safe SUVs India"
+    ],
+    "date": "2026-03-30",
+    "comparison": null,
+    "sections": [
+      {
+        "heading": "Overview",
+        "body": [
+          "The Kia Seltos has achieved a major milestone by securing a 5-star safety rating in the Bharat NCAP crash tests 2026.",
+          "This marks a significant improvement in safety for one of India's most popular mid-size SUVs.",
+          "With strong crash performance and advanced safety features, the Seltos is now among the safest cars in its segment."
+        ]
+      },
+      {
+        "heading": "Bharat NCAP Rating Breakdown",
+        "body": [
+          "Adult Occupant Protection (AOP): 31.70 out of 32.",
+          "Child Occupant Protection (COP): 45.00 out of 49.",
+          "Overall rating: 5 stars.",
+          "These scores place the Seltos among the top-rated SUVs in India for safety."
+        ]
+      },
+      {
+        "heading": "Crash Test Performance",
+        "body": [
+          "Front collision rating: 15.70 out of 16.",
+          "Side impact rating: 16 out of 16 with optimal safety.",
+          "Outstanding results in side pole impact evaluations.",
+          "Solid body design and robust cabin strength guarantee passenger security."
+        ]
+      },
+      {
+        "heading": "Key Safety Features",
+        "body": [
+          "6 airbags provided as standard across variants.",
+          "Electronic Stability Control (ESC) and Vehicle Stability Management.",
+          "ISOFIX child seat mounts for better child safety.",
+          "All-wheel disc brakes and seatbelt reminders for all passengers.",
+          "Advanced Driver Assistance Systems (ADAS) in higher variants."
+        ]
+      },
+      {
+        "heading": "Why This Matters",
+        "body": [
+          "The Kia Seltos has achieved a major milestone by securing a 5-star safety rating in the Bharat NCAP crash tests 2026.",
+          "This marks a significant improvement in safety for one of India's most popular mid-size SUVs.",
+          "With strong crash performance and advanced safety features, the Seltos is now among the safest cars in its segment."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "body": [
+          "The Kia Seltos has achieved a major milestone by securing a 5-star safety rating in the Bharat NCAP crash tests 2026.",
+          "This marks a significant improvement in safety for one of India's most popular mid-size SUVs.",
+          "With strong crash performance and advanced safety features, the Seltos is now among the safest cars in its segment."
+        ]
+      }
+    ]
+  },
   {
     "slug": "latest-auto-news-india-2026-suv-ev-bike-update",
     "type": "blog",
