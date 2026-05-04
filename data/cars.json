@@ -1,4 +1,40 @@
+
 [
+  {
+    "slug": "mg-majestor-bookings-open-india-2026",
+    "type": "car",
+    "title": "MG Majestor: Pre-Bookings Now Available for MG’s Premier SUV",
+    "image": "/images/cars/mgbanner-img-001.png",
+    "description": "The anticipation is almost over as MG Motor India officially kicks off pre-bookings for the Majestor, a luxury ladder-frame SUV directly competing with the Toyota Fortuner.",
+    "content": [
+      "MG Motor India has launched pre-bookings for the MG Majestor with a nominal fee of ₹41,000, and the price is expected to be disclosed on May 10, 2026.",
+      "Positioned above the Gloster, the Majestor impresses with its striking matrix-style grille and robust 19-inch dual-tone alloy wheels.",
+      "Beneath the hood, this powerhouse is equipped with a 2.0L twin-turbo diesel engine, generating 215 PS and 478 Nm of torque, mated to a refined ZF 8-speed automatic transmission.",
+      "Inside, it raises the bar for the segment with 12-way power-adjustable front seats featuring ventilation and various massage settings.",
+      "For off-road aficionados, the 'M-Hub' all-terrain system provides 10 distinct drive modes, three differential locks, and a water-wading capacity of 810mm."
+    ],
+    "date": "2026-05-04",
+    "specs": {
+      "price": "₹39.50 Lakh – ₹46.00 Lakh (Projected)",
+      "mileage": "12.5 kmpl (Estimated)",
+      "engine": "2.0L Twin-Turbo Diesel (215 PS)"
+    },
+    "pros": [
+      "Exceptional luxury features (massage seats, JBL audio)",
+      "True off-road capability with triple differential locks",
+      "Generous 6 and 7-seater configurations available",
+      "Level 2 ADAS for improved safety on highways"
+    ],
+    "cons": [
+      "High ground clearance makes entering and exiting a challenge",
+      "No petrol engine option available for NCR customers",
+      "Brand image still evolving compared to the iconic Fortuner"
+    ],
+    "comparison": {
+      "rival": "Toyota Fortuner Legender",
+      "advantage": "The Majestor distinguishes itself with a more technologically advanced cabin and enhanced ride comfort in contrast to the Fortuner's rugged and basic interior."
+    }
+  },
 {
   "slug": "tata-curvv-ev-launch-india-2026",
   "type": "car",
