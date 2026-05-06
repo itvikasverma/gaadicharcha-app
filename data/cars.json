@@ -1,5 +1,39 @@
-
 [
+  {
+    "slug": "honda-city-facelift-launch-india-may-2026",
+    "type": "car",
+    "title": "2026 Honda City Facelift: New Tech and Refined Style for India’s Favorite Sedan",
+    "image": "/images/cars/honda-city-2026.png",
+    "description": "Honda is ready to update the legendary City sedan with its second major facelift, bringing a 360-degree camera, refreshed aesthetics, and improved hybrid tech.",
+    "content": [
+      "Honda Cars India has confirmed the launch of the 2026 City Facelift on May 22, aimed at keeping the sedan competitive against the Skoda Slavia and Hyundai Verna.",
+      "The update features a redesigned front grille, sharper LED headlight graphics, and new multi-spoke alloy wheels to enhance its premium road presence.",
+      "A major interior addition is the 360-degree camera system, filling a key gap in its feature list, alongside new upholstery and updated trim inserts.",
+      "The powertrain remains unchanged: the reliable 121 PS 1.5L i-VTEC petrol and the ultra-efficient 126 PS e:HEV hybrid engine.",
+      "Safety is a priority, with the Honda Sensing ADAS suite now expected to be even more refined for Indian road conditions."
+    ],
+    "date": "2026-05-06",
+    "specs": {
+      "price": "₹12.50 Lakh – ₹21.00 Lakh (Expected)",
+      "mileage": "17.8 - 27.1 kmpl",
+      "engine": "1.5L Petrol / 1.5L Hybrid"
+    },
+    "pros": [
+      "New 360-degree camera for easier parking",
+      "Class-leading fuel efficiency in the Hybrid variant",
+      "Timeless design with fresh 2026 updates",
+      "Comprehensive Honda Sensing safety suite"
+    ],
+    "cons": [
+      "No turbocharged engine option for performance enthusiasts",
+      "Ground clearance remains a concern on large speed breakers",
+      "Infotainment screen size is smaller than some rivals"
+    ],
+    "comparison": {
+      "rival": "Hyundai Verna",
+      "advantage": "The City continues to lead in rear-seat comfort and hybrid efficiency, whereas the Verna focuses more on turbo-performance."
+    }
+  },
   {
     "slug": "mg-majestor-bookings-open-india-2026",
     "type": "car",
@@ -35,38 +69,39 @@
       "advantage": "The Majestor distinguishes itself with a more technologically advanced cabin and enhanced ride comfort in contrast to the Fortuner's rugged and basic interior."
     }
   },
-{
-  "slug": "tata-curvv-ev-launch-india-2026",
-  "type": "car",
-  "title": "Tata Curvv EV: The Most Awaited Coupe SUV Launch of 2026",
-  "image": "/images/cars/tata-curvv-ev.png",
-  "description": "Tata Motors is poised to shake up the electric vehicle market with its innovative Curvv EV, showcasing coupe aesthetics, an impressive range, and cutting-edge technology.",
-  "content": [
-    "Tata Motors is preparing to unveil its most fashionable electric SUV to date, the Curvv EV, in India in 2026.",
-    "The Curvv is distinctive with its coupe SUV silhouette, characterized by a sleek roofline, wide LED light strips, and a strikingly modern design.",
-    "Built on Tata’s Gen 2 EV platform, it is anticipated to achieve a driving range exceeding 500 km on a single charge.",
-    "The interior will boast a sleek dashboard, a sizable touchscreen infotainment system, and integrated connected car capabilities.",
-    "The Curvv EV is expected to feature fast-charging capabilities along with advanced safety features like ADAS."
-  ],
-  "date": "2026-04-18",
-  "specs": {
-    "price": "₹20.00 Lakh – ₹25.00 Lakh (Expected)",
-    "mileage": "500+ km range",
-    "engine": "Electric Motor (Gen 2 EV Platform)"
+  {
+    "slug": "tata-curvv-ev-launch-india-2026",
+    "type": "car",
+    "title": "Tata Curvv EV: The Most Awaited Coupe SUV Launch of 2026",
+    "image": "/images/cars/tata-curvv-ev.png",
+    "description": "Tata Motors is poised to shake up the electric vehicle market with its innovative Curvv EV, showcasing coupe aesthetics, an impressive range, and cutting-edge technology.",
+    "content": [
+      "Tata Motors is preparing to unveil its most fashionable electric SUV to date, the Curvv EV, in India in 2026.",
+      "The Curvv is distinctive with its coupe SUV silhouette, characterized by a sleek roofline, wide LED light strips, and a strikingly modern design.",
+      "Built on Tata’s Gen 2 EV platform, it is anticipated to achieve a driving range exceeding 500 km on a single charge.",
+      "The interior will boast a sleek dashboard, a sizable touchscreen infotainment system, and integrated connected car capabilities.",
+      "The Curvv EV is expected to feature fast-charging capabilities along with advanced safety features like ADAS."
+    ],
+    "date": "2026-04-18",
+    "specs": {
+      "price": "₹20.00 Lakh – ₹25.00 Lakh (Expected)",
+      "mileage": "500+ km range",
+      "engine": "Electric Motor (Gen 2 EV Platform)"
+    },
+    "pros": [
+      "Stylish coupe SUV design",
+      "Extensive driving range",
+      "State-of-the-art EV platform from Tata",
+      "Sophisticated connected technology and ADAS"
+    ],
+    "cons": [
+      "Charging infrastructure is currently developing",
+      "Anticipated higher pricing",
+      "New platform’s reliability is still to be validated"
+    ],
+    "comparison": null
   },
-  "pros": [
-    "Stylish coupe SUV design",
-    "Extensive driving range",
-    "State-of-the-art EV platform from Tata",
-    "Sophisticated connected technology and ADAS"
-  ],
-  "cons": [
-    "Charging infrastructure is currently developing",
-    "Anticipated higher pricing",
-    "New platform’s reliability is still to be validated"
-  ],
-  "comparison": null
-},{
+  {
     "slug": "mg-majestor-launch-india-2026",
     "type": "car",
     "title": "MG Majestor: The New Flagship SUV King Arrives on April",
@@ -96,44 +131,44 @@
       "Resale value generally lags behind competitors from Toyota"
     ],
     "comparison": null
-},{
-   "slug": "tata-harrier-ev-awd-launch-india-2026",
+  },
+  {
+    "slug": "tata-harrier-ev-awd-launch-india-2026",
     "type": "car",
     "title": "Tata Harrier EV AWD: The Ultimate Electric SUV Arrives Next Month",
     "image": "/images/cars/tata-harrier-ev-2026.png",
     "description": "Tata Motors is set to debut the Harrier EV this May. Boasting dual-motor AWD, over 500 km of range, and cutting-edge V2L technology, this is the revolutionary SUV we've all been anticipating.",
     "content": [
-        "The electric SUV scene is on the brink of a major transformation. Tata Motors has officially announced that the eagerly awaited Harrier EV will arrive in Indian dealerships by late May 2026.",
-        "Built on Tata’s advanced Acti.ev platform, the Harrier EV keeps the bold and muscular presence of its diesel version, while introducing modern elements such as a closed front grille, streamlined alloy wheels, and full-width LED light strips at both ends.",
-        "A key highlight is the launch of a dual-motor All-Wheel Drive (AWD) system, marking it as Tata's first electric vehicle with authentic off-road capabilities. The sizable 60+ kWh battery is projected to provide a real-world range comfortably exceeding 450 km.",
-        "Inside, features reach new heights with a state-of-the-art 12.3-inch infotainment display, the Arcade.ev app suite, a panoramic sunroof, and Vehicle-to-Load (V2L) technology, enabling you to power external devices directly from the vehicle.",
-        "With a starting price estimated around ₹24 Lakh, the Harrier EV is poised to significantly challenge luxury electric SUVs while competing against models like the Mahindra XUV.e8 and BYD Atto 3."
+      "The electric SUV scene is on the brink of a major transformation. Tata Motors has officially announced that the eagerly awaited Harrier EV will arrive in Indian dealerships by late May 2026.",
+      "Built on Tata’s advanced Acti.ev platform, the Harrier EV keeps the bold and muscular presence of its diesel version, while introducing modern elements such as a closed front grille, streamlined alloy wheels, and full-width LED light strips at both ends.",
+      "A key highlight is the launch of a dual-motor All-Wheel Drive (AWD) system, marking it as Tata's first electric vehicle with authentic off-road capabilities. The sizable 60+ kWh battery is projected to provide a real-world range comfortably exceeding 450 km.",
+      "Inside, features reach new heights with a state-of-the-art 12.3-inch infotainment display, the Arcade.ev app suite, a panoramic sunroof, and Vehicle-to-Load (V2L) technology, enabling you to power external devices directly from the vehicle.",
+      "With a starting price estimated around ₹24 Lakh, the Harrier EV is poised to significantly challenge luxury electric SUVs while competing against models like the Mahindra XUV.e8 and BYD Atto 3."
     ],
     "date": "2026-04-13",
     "specs": {
-        "price": "₹24.00 Lakh – ₹29.00 Lakh (Expected)",
-        "mileage": "450 - 500 km (Real-world estimate)",
-        "engine": "Dual Motor AWD / Single Motor FWD"
+      "price": "₹24.00 Lakh – ₹29.00 Lakh (Expected)",
+      "mileage": "450 - 500 km (Real-world estimate)",
+      "engine": "Dual Motor AWD / Single Motor FWD"
     },
     "pros": [
-        "True AWD capability makes it an adventurous electric SUV",
-        "Spacious interior and commanding road presence",
-        "V2L (Vehicle-to-Load) and V2V (Vehicle-to-Vehicle) charging functionalities",
-        "Enhanced Level 2 ADAS suite standard on higher trims"
+      "True AWD capability makes it an adventurous electric SUV",
+      "Spacious interior and commanding road presence",
+      "V2L (Vehicle-to-Load) and V2V (Vehicle-to-Vehicle) charging functionalities",
+      "Enhanced Level 2 ADAS suite standard on higher trims"
     ],
     "cons": [
-        "The hefty battery pack will notably increase the overall weight",
-        "The anticipated high price for top-spec variants could rival entry-level luxury EVs"
+      "The hefty battery pack will notably increase the overall weight",
+      "The anticipated high price for top-spec variants could rival entry-level luxury EVs"
     ],
     "comparison": null
-},
-{
+  },
+  {
     "slug": "honda-elevate-hybrid-ehev-2026-launch",
     "type": "car",
     "title": "Honda Elevate e:HEV Hybrid: The Ultimate SUV Rival Arrives This May",
     "image": "/images/cars/honda-elevate-hybrid-2026.png",
     "image_2": "/images/cars/honda-elevate-hybrid-2026-1.png",
-
     "description": "Honda is set to introduce its acclaimed hybrid technology to the Elevate SUV, promising impressive mileage, competitive pricing, and innovative tech features.",
     "content": [
       "After much anticipation, Honda Cars India has confirmed that the Elevate e:HEV (Strong Hybrid) will officially launch in late May 2026.",
@@ -159,7 +194,8 @@
       "Higher expected entry price compared to standard petrol versions"
     ],
     "comparison": null
-},{
+  },
+  {
     "slug": "maruti-suzuki-evitara-launch-date-price-2026",
     "type": "car",
     "title": "Maruti Suzuki eVitara: The Game-Changing Electric SUV Arriving Next Month",
@@ -189,9 +225,9 @@
       "Top-of-the-line AWD variant may exceed ₹22 Lakh"
     ],
     "comparison": null
-},
+  },
   {
-"slug": "kia-syros-compact-suv-india-launch-details",
+    "slug": "kia-syros-compact-suv-india-launch-details",
     "type": "car",
     "title": "Kia Syros: The Boxy Compact SUV Ready to Disrupt the Indian Market",
     "image": "/images/cars/kia-syros-2026-Photoroom.png",
@@ -220,8 +256,9 @@
       "Boxy aerodynamics may slightly affect highway fuel efficiency"
     ],
     "comparison": null
-},{
-   "slug": "volkswagen-taigun-facelift-2026-launch-features",
+  },
+  {
+    "slug": "volkswagen-taigun-facelift-2026-launch-features",
     "type": "car",
     "title": "Volkswagen Taigun Facelift 2026 Launched: New Gearbox, ADAS & Price",
     "image": "/images/cars/vw-taigun-facelift-2026-1.png",
@@ -250,14 +287,13 @@
       "Rear seating remains more accommodating for two adults rather than three"
     ],
     "comparison": null
-},
-{
+  },
+  {
     "slug": "renault-duster-2026-deliveries-commence-india",
     "type": "car",
     "title": "2026 Renault Duster Deliveries Kick Off This Week: The Icon Is Back!",
     "image": "/images/cars/renault-duster-2026-1.png",
     "image_2": "/images/cars/renault-duster-2026.png",
-
     "description": "The brand-new Renault Duster is set to grace Indian roads this April, starting at ₹10.49 Lakh. Here’s why it’s poised to be the ultimate competitor to the Creta with Level 2 ADAS.",
     "content": [
       "The anticipation has come to an end! Following a grand re-launch in mid-March, the 2026 Renault Duster's deliveries are officially underway across India this week.",
@@ -283,7 +319,7 @@
       "Launch of the Strong Hybrid variant postponed until late 2026"
     ],
     "comparison": null
-},
+  },
   {
     "slug": "mahindra-xuv-e8-electric-launch-price-2026",
     "type": "car",
@@ -291,32 +327,32 @@
     "image": "/images/cars/mahindra-xuve8-Photoroom.png",
     "description": "Mahindra's flagship electric SUV, the XUV.e8, is set for a much-anticipated launch in mid-2026. Discover the battery specifications, all-wheel drive system, and cutting-edge interior design.",
     "content": [
-        "Mahindra is poised to lead the premium electric vehicle market with the XUV.e8, the all-electric iteration of the hugely popular XUV700.",
-        "Having been spotted testing across India, the XUV.e8 maintains the bold profile of its internal combustion engine (ICE) counterpart, featuring a sleek closed grille, a full-width LED light strip, and aerodynamic alloy wheels.",
-        "Inside, the cabin is a haven for technology enthusiasts, featuring an impressive triple-screen arrangement that spans the dashboard, incorporating AI-enhanced advanced driver-assistance systems (ADAS) and state-of-the-art connectivity tech.",
-        "Built on Mahindra's innovative INGLO skateboard platform, the vehicle is expected to come equipped with a substantial 80 kWh battery, available in both Rear-Wheel Drive (RWD) and high-performance All-Wheel Drive (AWD) variants.",
-        "With aggressive pricing aimed at undercutting luxury electric vehicles, the XUV.e8 is set to compete directly with the Tata Harrier EV and the BYD Atto 3 when it arrives in showrooms later this year."
+      "Mahindra is poised to lead the premium electric vehicle market with the XUV.e8, the all-electric iteration of the hugely popular XUV700.",
+      "Having been spotted testing across India, the XUV.e8 maintains the bold profile of its internal combustion engine (ICE) counterpart, featuring a sleek closed grille, a full-width LED light strip, and aerodynamic alloy wheels.",
+      "Inside, the cabin is a haven for technology enthusiasts, featuring an impressive triple-screen arrangement that spans the dashboard, incorporating AI-enhanced advanced driver-assistance systems (ADAS) and state-of-the-art connectivity tech.",
+      "Built on Mahindra's innovative INGLO skateboard platform, the vehicle is expected to come equipped with a substantial 80 kWh battery, available in both Rear-Wheel Drive (RWD) and high-performance All-Wheel Drive (AWD) variants.",
+      "With aggressive pricing aimed at undercutting luxury electric vehicles, the XUV.e8 is set to compete directly with the Tata Harrier EV and the BYD Atto 3 when it arrives in showrooms later this year."
     ],
     "date": "2026-04-07",
     "specs": {
-        "price": "₹30.00 Lakh – ₹35.00 Lakh (Anticipated)",
-        "mileage": "450 - 500 km (Real-world estimate)",
-        "engine": "Dual Motor AWD / Single Motor RWD"
+      "price": "₹30.00 Lakh – ₹35.00 Lakh (Anticipated)",
+      "mileage": "450 - 500 km (Real-world estimate)",
+      "engine": "Dual Motor AWD / Single Motor RWD"
     },
     "pros": [
-        "Impressive 80 kWh battery for worry-free long-distance driving",
-        "Modern triple-screen dashboard design",
-        "Generous 3-row seating arrangement within an electric platform",
-        "Proven structural safety of the XUV700 coupled with INGLO EV technology"
+      "Impressive 80 kWh battery for worry-free long-distance driving",
+      "Modern triple-screen dashboard design",
+      "Generous 3-row seating arrangement within an electric platform",
+      "Proven structural safety of the XUV700 coupled with INGLO EV technology"
     ],
     "cons": [
-        "Higher starting price expected compared to the ICE XUV700",
-        "Substantial kerb weight due to the large battery system"
+      "Higher starting price expected compared to the ICE XUV700",
+      "Substantial kerb weight due to the large battery system"
     ],
     "comparison": null
-},
-{
-"slug": "toyota-urban-cruiser-ebella-launch-date-price",
+  },
+  {
+    "slug": "toyota-urban-cruiser-ebella-launch-date-price",
     "type": "car",
     "title": "Toyota Urban Cruiser Ebella: Launch Date, Expected Price & Features",
     "image": "/images/cars/toyota-urban-cruiser.png",
@@ -345,68 +381,70 @@
       "Development of public fast-charging infrastructure in Tier 2/3 cities is still in progress"
     ],
     "comparison": null
-},{
-   "slug": "tata-sierra-ev-2026-bookings-price-range",
+  },
+  {
+    "slug": "tata-sierra-ev-2026-bookings-price-range",
     "type": "car",
     "title": "Tata Sierra EV 2026: Bookings Open, Specs, and Range Details",
     "image": "/images/cars/tata-sierra-ev-2026.png",
     "description": "The iconic Tata Sierra makes its comeback in an all-electric form. Discover the battery specifications, anticipated pricing, and interior highlights of the 2026 Sierra EV.",
     "content": [
-        "The moment we've all been waiting for has arrived! Tata Motors has officially launched bookings for the eagerly awaited Sierra EV, breathing new life into a legendary model for the electric age.",
-        "Remaining remarkably faithful to its heritage, the 2026 Sierra EV showcases the signature alpine windows, a spacious lounge-inspired interior, and a sleek, modern front design.",
-        "Built on Tata's cutting-edge Gen 2 Acti.ev platform, it guarantees ample cabin space, featuring a panoramic sunroof and standard Level 2 Advanced Driver Assistance Systems (ADAS).",
-        "The Sierra EV is projected to be available with two battery pack options, targeting a realistic range that should alleviate any concerns about running out of charge on long drives.",
-        "Situated just above the Harrier EV, the Sierra is set to tap into the premium lifestyle SUV market, going head-to-head with the forthcoming Mahindra XEV 9e."
+      "The moment we've all been waiting for has arrived! Tata Motors has officially launched bookings for the eagerly awaited Sierra EV, breathing new life into a legendary model for the electric age.",
+      "Remaining remarkably faithful to its heritage, the 2026 Sierra EV showcases the signature alpine windows, a spacious lounge-inspired interior, and a sleek, modern front design.",
+      "Built on Tata's cutting-edge Gen 2 Acti.ev platform, it guarantees ample cabin space, featuring a panoramic sunroof and standard Level 2 Advanced Driver Assistance Systems (ADAS).",
+      "The Sierra EV is projected to be available with two battery pack options, targeting a realistic range that should alleviate any concerns about running out of charge on long drives.",
+      "Situated just above the Harrier EV, the Sierra is set to tap into the premium lifestyle SUV market, going head-to-head with the forthcoming Mahindra XEV 9e."
     ],
     "date": "2026-04-04",
     "specs": {
-        "price": "₹22.00 Lakh – ₹28.50 Lakh (Expected)",
-        "mileage": "450 - 550 km (Claimed Range)",
-        "engine": "Dual Motor AWD / FWD Electric"
+      "price": "₹22.00 Lakh – ₹28.50 Lakh (Expected)",
+      "mileage": "450 - 550 km (Claimed Range)",
+      "engine": "Dual Motor AWD / FWD Electric"
     },
     "pros": [
-        "Iconic retro-modern design featuring alpine windows",
-        "Spacious, lounge-like seating in the rear",
-        "Advanced Level 2 ADAS and V2L (Vehicle to Load) technology",
-        "Impressive ground clearance suited for Indian roads"
+      "Iconic retro-modern design featuring alpine windows",
+      "Spacious, lounge-like seating in the rear",
+      "Advanced Level 2 ADAS and V2L (Vehicle to Load) technology",
+      "Impressive ground clearance suited for Indian roads"
     ],
     "cons": [
-        "Premium pricing may put it beyond the reach of budget-conscious buyers",
-        "Heavy kerb weight might impact driving dynamics"
+      "Premium pricing may put it beyond the reach of budget-conscious buyers",
+      "Heavy kerb weight might impact driving dynamics"
     ],
     "comparison": null
-},{
-  "slug": "hyundai-boulder-concept-full-details",
-  "type": "car",
-  "title": "Hyundai Boulder Concept 2026: Features, Design & Is It a Ford Bronco Rival?",
-  "image": "/images/blogs/hyundai-boulder-concept-fron.png",
-  "description": "Explore the Hyundai Boulder Concept, a rugged off-road SUV with a ladder-frame structure, featuring impressive 37-inch tires, 'Art of Steel' design, and cutting-edge trail technology.",
-  "content": [
-    "The Hyundai Boulder Concept makes a bold statement in the extreme off-road vehicle market, representing a significant departure from Hyundai's typical crossover style.",
-    "Constructed on a sturdy ladder-frame chassis, this 'Art of Steel' SUV boasts enormous 37-inch mud-terrain tires and remarkable ground clearance, ready for the toughest trails.",
-    "Inside, it harmonizes rugged practicality with high-tech features, including tactile physical knobs, fold-out tray tables, and an advanced real-time off-road navigation system.",
-    "The exterior is eye-catching with a striking Liquid Titanium finish, safari-style roof windows, coach doors, and a functional double-hinged tailgate.",
-    "Though it remains a concept for the time being, the Boulder platform hints at an eagerly awaited midsize pickup truck that is expected to begin production by 2030."
-  ],
-  "date": "2026-04-03",
-  "specs": {
-    "price": "Concept (Production Anticipated 2030)",
-    "mileage": "N/A (Concept Vehicle)",
-    "engine": "To Be Announced (Projected Electric/Hybrid)"
   },
-  "pros": [
-    "Genuine ladder-frame off-road performance",
-    "Innovative double-hinged tailgate and coach doors",
-    "Striking, boxy design with impressive 37-inch tires",
-    "Sophisticated software-driven off-road guidance system"
-  ],
-  "cons": [
-    "Currently a concept vehicle only",
-    "Production model isn't expected until 2030",
-    "Mainly focused on the US market"
-  ],
-  "comparison": null
-},
+  {
+    "slug": "hyundai-boulder-concept-full-details",
+    "type": "car",
+    "title": "Hyundai Boulder Concept 2026: Features, Design & Is It a Ford Bronco Rival?",
+    "image": "/images/blogs/hyundai-boulder-concept-fron.png",
+    "description": "Explore the Hyundai Boulder Concept, a rugged off-road SUV with a ladder-frame structure, featuring impressive 37-inch tires, 'Art of Steel' design, and cutting-edge trail technology.",
+    "content": [
+      "The Hyundai Boulder Concept makes a bold statement in the extreme off-road vehicle market, representing a significant departure from Hyundai's typical crossover style.",
+      "Constructed on a sturdy ladder-frame chassis, this 'Art of Steel' SUV boasts enormous 37-inch mud-terrain tires and remarkable ground clearance, ready for the toughest trails.",
+      "Inside, it harmonizes rugged practicality with high-tech features, including tactile physical knobs, fold-out tray tables, and an advanced real-time off-road navigation system.",
+      "The exterior is eye-catching with a striking Liquid Titanium finish, safari-style roof windows, coach doors, and a functional double-hinged tailgate.",
+      "Though it remains a concept for the time being, the Boulder platform hints at an eagerly awaited midsize pickup truck that is expected to begin production by 2030."
+    ],
+    "date": "2026-04-03",
+    "specs": {
+      "price": "Concept (Production Anticipated 2030)",
+      "mileage": "N/A (Concept Vehicle)",
+      "engine": "To Be Announced (Projected Electric/Hybrid)"
+    },
+    "pros": [
+      "Genuine ladder-frame off-road performance",
+      "Innovative double-hinged tailgate and coach doors",
+      "Striking, boxy design with impressive 37-inch tires",
+      "Sophisticated software-driven off-road guidance system"
+    ],
+    "cons": [
+      "Currently a concept vehicle only",
+      "Production model isn't expected until 2030",
+      "Mainly focused on the US market"
+    ],
+    "comparison": null
+  },
   {
     "slug": "hyundai-verna-2026-update-new-features",
     "type": "car",

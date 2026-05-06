@@ -1,5 +1,45 @@
 [
   {
+    "slug": "trending-car-updates-india-may-2026",
+    "type": "blog",
+    "title": "What's Trending: May 2026’s Biggest Car News and Unveils",
+    "image": "/images/cars/mgbanner-img-001.png",
+    "description": "From the imminent arrival of the Sierra EV to a fresh look for the Honda City, here is everything moving the Indian car market today.",
+    "tags": [
+      "tata sierra ev launch",
+      "honda city 2026",
+      "mg majestor specs",
+      "toyota ebella range",
+      "may 2026 car trends"
+    ],
+    "date": "2026-05-06",
+    "sections": [
+      {
+        "heading": "The Sierra EV Countdown",
+        "body": [
+          "The buzz surrounding the Tata Sierra EV has reached a fever pitch as we approach the expected May 19 launch date. Recent sightings confirm the 'Lounge' seating and the iconic glass roof are intact.",
+          "It is trending as the most anticipated EV of the year, promising a massive 75kWh battery pack on the top-spec variants."
+        ]
+      },
+      {
+        "heading": "Luxury and Efficiency",
+        "body": [
+          "The MG Majestor is gaining traction this week as pre-bookings surge. Its massage-seat feature and 4WD capability are positioning it as a high-tech alternative to the aging luxury SUV veterans.",
+          "On the greener side, the Toyota Urban Cruiser Ebella is trending for its 543 km certified range, making it a serious contender for long-distance EV travel."
+        ]
+      }
+    ],
+    "comparison": {
+      "metric": "Key May Event Dates",
+      "values": {
+        "MG Majestor Price Reveal": "May 10",
+        "Tata Sierra EV Launch": "May 19",
+        "Honda City Facelift": "May 22",
+        "Toyota Ebella Deliveries": "Late May"
+      }
+    }
+  },
+  {
     "slug": "top-car-launches-india-may-2026",
     "type": "blog",
     "title": "May 2026 Trending: The Return of an Icon and the Battle of Luxury SUVs",

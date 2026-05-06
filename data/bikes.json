@@ -1,4 +1,41 @@
 [
+  {
+    "slug": "royal-enfield-himalayan-450-raid-2026",
+    "type": "bike",
+    "title": "Royal Enfield Himalayan 450 Raid: Built for the Extreme",
+    "image": "/images/bikes/himalayan-450-raid-1.png",
+    "image_2": "/images/bikes/himalayan-450-raid-2.png",
+    "description": "Royal Enfield redefines adventure with the 2026 Himalayan 450 Raid model, boasting tubeless wheels, rally-tuned suspension, and upgraded off-road electronics.",
+    "content": [
+      "Designed with serious off-roaders in mind, the 2026 Himalayan 450 Raid incorporates long-travel adjustable suspension for navigating complex terrains.",
+      "A significant change arriving in May 2026 is the addition of factory-installed tubeless cross-spoke wheels, fulfilling a long-awaited request from the touring community.",
+      "The bike showcases a new 'Raid Mode' which enhances the Sherpa 450 engine's torque delivery while deactivating the rear-channel ABS for optimum performance.",
+      "Its robust build includes a lightweight carbon-fiber bash plate, handguards, and a more assertive rally-style seat height.",
+      "Connectivity has been upgraded through the Tripper Dash, which now provides real-time topographic maps and weather updates for those off the beaten path."
+    ],
+    "date": "2026-05-06",
+    "specs": {
+      "price": "₹3.15 Lakh (Ex-Showroom)",
+      "mileage": "28 - 32 kmpl",
+      "engine": "452cc Liquid-Cooled Sherpa Engine"
+    },
+    "pros": [
+      "Outstanding off-road performance with adjustable suspension",
+      "Highly awaited tubeless spoke wheels",
+      "Robust mid-range torque ideal for highway travel",
+      "Enhanced navigation capabilities and tech features"
+    ],
+    "cons": [
+      "Somewhat heavy for narrow technical trails",
+      "Higher seat might pose a challenge for shorter riders",
+      "Engine can generate noticeable noise at high speeds"
+    ],
+    "comparison": {
+      "rival": "KTM 390 Adventure SW",
+      "advantage": "The Himalayan 450 Raid delivers significantly improved low-end torque and a more comfortable upright seating position for long-distance touring."
+    }
+  }
+,
 {
   "slug": "tvs-apache-rtr-310-2026-refresh",
   "type": "bike",
